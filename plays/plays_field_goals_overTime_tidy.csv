@@ -1,0 +1,29 @@
+"","gameId","playId","possessionTeam","specialTeamsResult","kickerId","scoreDifference","secondsRemain"
+"1",2018090901,5191,"PIT","Kick Attempt No Good",41953,0,107
+"2",2018090901,5480,"CLE","Blocked Kick Attempt",45037,0,13
+"3",2018091602,4317,"MIN","Kick Attempt No Good",46236,0,456
+"4",2018091602,4709,"MIN","Kick Attempt No Good",46236,0,4
+"5",2018093004,5048,"IND","Kick Attempt Good",21213,0,364
+"6",2018093004,5389,"HOU","Kick Attempt Good",43846,3,114
+"7",2018093004,5706,"HOU","Kick Attempt Good",43846,0,3
+"8",2018093007,4000,"PHI","Kick Attempt Good",44966,0,383
+"9",2018093009,5619,"OAK","Kick Attempt Good",46663,0,110
+"10",2018100703,5064,"CLE","Kick Attempt Good",46634,0,6
+"11",2018100712,4451,"HOU","Kick Attempt Good",43846,0,115
+"12",2018101404,4280,"CHI","Kick Attempt No Good",41688,0,120
+"13",2018101404,4459,"MIA","Kick Attempt Good",46298,0,3
+"14",2018102109,4977,"TB","Kick Attempt Good",41736,0,115
+"15",2018120207,5010,"NYG","Kick Attempt Good",43937,0,360
+"16",2018120905,4743,"KC","Kick Attempt Good",45046,0,286
+"17",2018121609,4837,"SF","Kick Attempt Good",30403,0,191
+"18",2019090809,5194,"ARI","Kick Attempt Good",45037,0,441
+"19",2019090809,5448,"DET","Kick Attempt Good",31446,3,232
+"20",2019100607,4572,"BAL","Kick Attempt Good",39470,0,331
+"21",2019111100,5403,"SEA","Kick Attempt Good",41175,0,4
+"22",2019122208,5609,"MIA","Kick Attempt Good",46298,0,4
+"23",2020101200,4718,"NO","Kick Attempt Good",43689,0,311
+"24",2020102508,5101,"ARI","Kick Attempt No Good",45037,0,167
+"25",2020102508,5483,"ARI","Kick Attempt Good",45037,0,20
+"26",2020110108,5069,"NO","Kick Attempt Good",43689,0,100
+"27",2020120604,5174,"MIN","Kick Attempt Good",38134,0,113
+"28",2020121700,3942,"LV","Kick Attempt Good",46236,0,202
