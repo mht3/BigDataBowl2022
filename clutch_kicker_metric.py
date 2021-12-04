@@ -10,6 +10,8 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 
+from player_dictionary import player_dict
+
 # from sklearn.preprocessing import LabelEncoder
 from sklearn.pipeline import make_pipeline
 
