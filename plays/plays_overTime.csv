@@ -1,0 +1,29 @@
+gameId,playId,playDescription,quarter,possessionTeam,specialTeamsResult,kickerId,gameClock,kickLength,preSnapHomeScore,preSnapVisitorScore,scoreDifference,secondsRemain,Result,season,week,gameDate,gameTimeEastern,homeTeamAbbr,visitorTeamAbbr,Home
+2018090901,5191,"(1:47) C.Boswell 42 yard field goal is No Good, Wide Left, Center-K.Canaday, Holder-J.Berry.",5,PIT,Kick Attempt No Good,41953,01:47:00,42,21,21,0,107,0,2018,1,09/09/2018,13:00:00,CLE,PIT,0
+2018090901,5480,"(:13) Z.Gonzalez 43 yard field goal is BLOCKED (T.Watt), Center-C.Hughlett, Holder-B.Colquitt.",5,CLE,Blocked Kick Attempt,45037,00:13:00,NA,21,21,0,13,0,2018,1,09/09/2018,13:00:00,CLE,PIT,1
+2018091602,4317,"(7:36) D.Carlson 49 yard field goal is No Good, Wide Right, Center-K.McDermott, Holder-M.Wile.",5,MIN,Kick Attempt No Good,46236,07:36:00,49,29,29,0,456,0,2018,2,09/16/2018,13:00:00,GB,MIN,0
+2018091602,4709,"(:04) D.Carlson 35 yard field goal is No Good, Wide Right, Center-K.McDermott, Holder-M.Wile.",5,MIN,Kick Attempt No Good,46236,00:04:00,35,29,29,0,4,0,2018,2,09/16/2018,13:00:00,GB,MIN,0
+2018093004,5048,"(6:04) A.Vinatieri 44 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",5,IND,Kick Attempt Good,21213,06:04:00,44,31,31,0,364,1,2018,4,09/30/2018,13:00:00,IND,HOU,1
+2018093004,5389,"(1:54) K.Fairbairn 29 yard field goal is GOOD, Center-J.Weeks, Holder-T.Daniel.",5,HOU,Kick Attempt Good,43846,01:54:00,29,34,31,3,114,1,2018,4,09/30/2018,13:00:00,IND,HOU,0
+2018093004,5706,"(:03) K.Fairbairn 37 yard field goal is GOOD, Center-J.Weeks, Holder-T.Daniel.",5,HOU,Kick Attempt Good,43846,00:03:00,37,34,34,0,3,1,2018,4,09/30/2018,13:00:00,IND,HOU,0
+2018093007,4000,"(6:23) (Field Goal formation) J.Elliott 37 yard field goal is GOOD, Center-R.Lovato, Holder-C.Johnston.",5,PHI,Kick Attempt Good,44966,06:23:00,37,20,20,0,383,1,2018,4,09/30/2018,13:00:00,TEN,PHI,0
+2018093009,5619,"(1:50) M.McCrane 29 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",5,OAK,Kick Attempt Good,46663,01:50:00,29,42,42,0,110,1,2018,4,09/30/2018,16:05:00,OAK,CLE,1
+2018100703,5064,"(:06) (Field Goal formation) G.Joseph 37 yard field goal is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",5,CLE,Kick Attempt Good,46634,00:06:00,37,9,9,0,6,1,2018,5,10/07/2018,13:00:00,CLE,BAL,1
+2018100712,4451,"(1:55) K.Fairbairn 36 yard field goal is GOOD, Center-J.Weeks, Holder-T.Daniel.",5,HOU,Kick Attempt Good,43846,01:55:00,36,16,16,0,115,1,2018,5,10/07/2018,20:20:00,HOU,DAL,1
+2018101404,4280,"(2:00) (Field Goal formation) C.Parkey 53 yard field goal is No Good, Wide Right, Center-P.Scales, Holder-P.O'Donnell.",5,CHI,Kick Attempt No Good,41688,02:00:00,53,28,28,0,120,0,2018,6,10/14/2018,13:00:00,MIA,CHI,0
+2018101404,4459,"(:03) (Field Goal formation) J.Sanders 47 yard field goal is GOOD, Center-J.Denney, Holder-M.Haack.",5,MIA,Kick Attempt Good,46298,00:03:00,47,28,28,0,3,1,2018,6,10/14/2018,13:00:00,MIA,CHI,1
+2018102109,4977,"(1:55) C.Catanzaro 59 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",5,TB,Kick Attempt Good,41736,01:55:00,59,23,23,0,115,1,2018,7,10/21/2018,13:00:00,TB,CLE,1
+2018120207,5010,"(6:00) A.Rosas 44 yard field goal is GOOD, Center-Z.DeOssie, Holder-R.Dixon.",5,NYG,Kick Attempt Good,43937,06:00:00,44,27,27,0,360,1,2018,13,12/02/2018,13:00:00,NYG,CHI,1
+2018120905,4743,"(4:46) H.Butker 35 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",5,KC,Kick Attempt Good,45046,04:46:00,35,24,24,0,286,1,2018,14,12/09/2018,13:00:00,KC,BAL,1
+2018121609,4837,"(3:11) R.Gould 36 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",5,SF,Kick Attempt Good,30403,03:11:00,36,23,23,0,191,1,2018,15,12/16/2018,16:05:00,SF,SEA,1
+2019090809,5194,"(7:21) Z.Gonzalez 28 yard field goal is GOOD, Center-A.Brewer, Holder-A.Lee.",5,ARI,Kick Attempt Good,45037,07:21:00,28,24,24,0,441,1,2019,1,09/08/2019,16:25:00,ARI,DET,1
+2019090809,5448,"(3:52) M.Prater 33 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",5,DET,Kick Attempt Good,31446,03:52:00,33,27,24,3,232,1,2019,1,09/08/2019,16:25:00,ARI,DET,0
+2019100607,4572,"(5:31) (Field Goal formation) J.Tucker 46 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",5,BAL,Kick Attempt Good,39470,05:31:00,46,23,23,0,331,1,2019,5,10/06/2019,13:00:00,PIT,BAL,0
+2019111100,5403,"(:04) J.Myers 42 yard field goal is GOOD, Center-T.Ott, Holder-M.Dickson.",5,SEA,Kick Attempt Good,41175,00:04:00,42,24,24,0,4,1,2019,10,11/11/2019,20:15:00,SF,SEA,0
+2019122208,5609,"(:04) (Field Goal formation) J.Sanders 37 yard field goal is GOOD, Center-T.Pepper, Holder-M.Haack.",5,MIA,Kick Attempt Good,46298,00:04:00,37,35,35,0,4,1,2019,16,12/22/2019,13:00:00,MIA,CIN,1
+2020101200,4718,"(5:11) W.Lutz 36 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",5,NO,Kick Attempt Good,43689,05:11:00,36,27,27,0,311,1,2020,5,10/12/2020,20:15:00,NO,LAC,1
+2020102508,5101,"(2:47) Z.Gonzalez 41 yard field goal is No Good, Wide Left, Center-A.Brewer, Holder-A.Lee.",5,ARI,Kick Attempt No Good,45037,02:47:00,41,34,34,0,167,0,2020,7,10/25/2020,20:20:00,ARI,SEA,1
+2020102508,5483,"(:20) Z.Gonzalez 48 yard field goal is GOOD, Center-A.Brewer, Holder-A.Lee.",5,ARI,Kick Attempt Good,45037,00:20:00,48,34,34,0,20,1,2020,7,10/25/2020,20:20:00,ARI,SEA,1
+2020110108,5069,"(1:40) W.Lutz 35 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",5,NO,Kick Attempt Good,43689,01:40:00,35,23,23,0,100,1,2020,8,11/01/2020,16:25:00,CHI,NO,0
+2020120604,5174,"(1:53) D.Bailey 23 yard field goal is GOOD, Center-A.DePaola, Holder-B.Colquitt.",5,MIN,Kick Attempt Good,38134,01:53:00,23,24,24,0,113,1,2020,13,12/06/2020,13:00:00,MIN,JAX,1
+2020121700,3942,"(3:22) D.Carlson 23 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",5,LV,Kick Attempt Good,46236,03:22:00,23,24,24,0,202,1,2020,15,12/17/2020,20:20:00,LV,LAC,1
