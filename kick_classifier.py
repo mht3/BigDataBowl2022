@@ -7,13 +7,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 
 from player_dictionary import player_dict
 from sklearn.preprocessing import LabelEncoder
 from sklearn.pipeline import make_pipeline
+
+
 
 def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix"):
     """
@@ -59,7 +60,7 @@ data = dataset[data_cols]
 
 
 # # Split into training and test set
-X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2,random_state=10)
+X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2,random_state=10, stratify=labels)
 
 # SVM Comment our random forest classifier and uncomment the SVC pipeline to run.
 # pipeline = make_pipeline(StandardScaler(), SVC(kernel='rbf', gamma=0.001, C=8, probability=True))
