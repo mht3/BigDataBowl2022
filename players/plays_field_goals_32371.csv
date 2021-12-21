@@ -1,0 +1,43 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2019110311,1901,"(3:44) N.Folk 22 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"03:44:00",22,17,7,10,2024
+"2",2019110311,2368,"(:10) N.Folk 19 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"00:10:00",19,17,10,7,1810
+"3",2019111710,1463,"(8:40) N.Folk 35 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"08:40:00",35,10,0,10,2320
+"4",2019111710,1851,"(3:24) N.Folk 22 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"03:24:00",22,10,3,7,2004
+"5",2019111710,2043,"(1:47) N.Folk 39 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"01:47:00",39,10,6,4,1907
+"6",2019112409,1076,"(12:51) N.Folk 44 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",1,1,32371,"12:51:00",44,7,0,7,2571
+"7",2019112409,1505,"(6:51) N.Folk 46 yard field goal is No Good, Wide Right, Center-J.Cardona, Holder-J.Bailey.",2,"NE",1,0,32371,"06:51:00",46,10,3,7,2211
+"8",2019112409,2004,"(:04) N.Folk 48 yard field goal is No Good, Wide Right, Center-J.Cardona, Holder-J.Bailey.",2,"NE",1,0,32371,"00:04:00",48,10,6,4,1804
+"9",2019112409,3241,"(9:37) N.Folk 42 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey. NE 9-Folk 1,101 career pts, 49th all-time.",4,"NE",1,1,32371,"09:37:00",42,10,6,4,577
+"10",2019120811,998,"(2:06) N.Folk 41 yard field goal is BLOCKED (T.Kpassagnon), Center-J.Cardona, Holder-J.Bailey, RECOVERED by KC-C.Ward at KC 35. C.Ward to KC 42 for 7 yards (J.Collins).",1,"NE",1,0,32371,"02:06:00",NA,7,3,4,2826
+"11",2019120811,3694,"(11:45) N.Folk 29 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",4,"NE",1,1,32371,"11:45:00",29,13,23,-10,705
+"12",2019121501,1614,"(3:55) N.Folk 40 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"03:55:00",40,10,7,3,2035
+"13",2019121501,1962,"(:10) N.Folk 46 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"00:10:00",46,10,10,0,1810
+"14",2019122101,1288,"(5:07) N.Folk 36 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",1,1,32371,"05:07:00",36,7,3,4,2107
+"15",2019122101,2509,"(9:58) N.Folk 51 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",3,"NE",1,1,32371,"09:58:00",51,10,10,0,1498
+"16",2019122101,3195,"(10:48) N.Folk 20 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",4,"NE",1,1,32371,"10:48:00",20,13,17,-4,648
+"17",2019122910,1411,"(5:54) N.Folk 25 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",1,1,32371,"05:54:00",25,0,10,-10,2154
+"18",2020092013,1482,"(3:49) N.Folk 51 yard field goal is No Good, Wide Left, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,0,32371,"03:49:00",51,14,14,0,2029
+"19",2020092013,2202,"(10:16) N.Folk 25 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",3,"NE",0,1,32371,"10:16:00",25,14,14,0,1516
+"20",2020092704,1140,"(12:35) N.Folk 33 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",1,1,32371,"12:35:00",33,0,3,-3,2555
+"21",2020092704,1423,"(7:59) N.Folk 23 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",1,1,32371,"07:59:00",23,3,3,0,2279
+"22",2020092704,2961,"(1:31) N.Folk 32 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",3,"NE",1,1,32371,"01:31:00",32,20,10,10,991
+"23",2020100501,1365,"(9:36) N.Folk 43 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"09:36:00",43,6,0,6,2376
+"24",2020101812,1261,"(5:24) N.Folk 41 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",1,1,32371,"05:24:00",41,0,9,-9,2124
+"25",2020101812,3191,"(3:27) N.Folk 38 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",4,"NE",1,1,32371,"03:27:00",38,9,18,-9,207
+"26",2020102510,840,"(15:00) N.Folk 40 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",1,1,32371,"15:00:00",40,0,7,-7,2700
+"27",2020110100,1162,"(10:55) N.Folk 43 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"10:55:00",43,7,0,7,2455
+"28",2020110100,1892,"(:12) N.Folk 33 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"00:12:00",33,7,3,4,1812
+"29",2020110900,1803,"(1:06) N.Folk 45 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"01:06:00",45,13,7,6,1866
+"30",2020110900,3962,"(:03) N.Folk 51 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",4,"NE",0,1,32371,"00:03:00",51,27,27,0,3
+"31",2020111511,2420,"(6:27) N.Folk 20 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",3,"NE",1,1,32371,"06:27:00",20,20,10,10,1287
+"32",2020112203,1254,"(8:36) N.Folk 45 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"08:36:00",45,7,7,0,2316
+"33",2020112203,3381,"(7:42) N.Folk 36 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",4,"NE",0,1,32371,"07:42:00",36,24,17,7,462
+"34",2020112906,2347,"(7:50) N.Folk 22 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",3,"NE",1,1,32371,"07:50:00",22,7,10,-3,1370
+"35",2020112906,3965,"(:03) N.Folk 50 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",4,"NE",1,1,32371,"00:03:00",50,17,17,0,3
+"36",2020120611,3323,"(11:25) N.Folk 32 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",4,"NE",0,1,32371,"11:25:00",32,0,35,-35,685
+"37",2020121000,1783,"(1:08) N.Folk 29 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"01:08:00",29,17,0,17,1868
+"38",2020122007,1168,"(8:55) N.Folk 45 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"08:55:00",45,0,0,0,2335
+"39",2020122007,1518,"(4:20) N.Folk 36 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2,"NE",0,1,32371,"04:20:00",36,0,3,-3,2060
+"40",2020122007,2618,"(4:24) N.Folk 45 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",3,"NE",0,1,32371,"04:24:00",45,7,6,1,1164
+"41",2020122007,3285,"(9:08) N.Folk 42 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",4,"NE",0,1,32371,"09:08:00",42,15,9,6,548
+"42",2020122800,172,"(12:49) N.Folk 45 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",1,"NE",1,1,32371,"12:49:00",45,0,0,0,3469

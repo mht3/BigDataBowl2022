@@ -1,0 +1,9 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018093008,1067,"(14:08) P.Dawson 23 yard field goal is GOOD, Center-A.Brewer, Holder-A.Lee.",2,"ARI",1,1,23860,"14:08:00",23,0,7,-7,2648
+"2",2018093008,2251,"(:02) (Field Goal formation) P.Dawson 50 yard field goal is No Good, Wide Right, Center-A.Brewer, Holder-A.Lee.",2,"ARI",1,0,23860,"00:02:00",50,10,7,3,1802
+"3",2018093008,4046,"(1:55) P.Dawson 45 yard field goal is No Good, Wide Right, Center-A.Brewer, Holder-A.Lee.",4,"ARI",1,0,23860,"01:55:00",45,17,17,0,115
+"4",2018101405,472,"(8:22) P.Dawson 26 yard field goal is GOOD, Center-A.Brewer, Holder-A.Lee.",1,"ARI",0,1,23860,"08:22:00",26,0,0,0,3202
+"5",2018101800,769,"(5:23) P.Dawson 43 yard field goal is GOOD, Center-A.Brewer, Holder-A.Lee.",1,"ARI",1,1,23860,"05:23:00",43,0,14,-14,3023
+"6",2018102809,1186,"(10:27) P.Dawson 31 yard field goal is GOOD, Center-A.Brewer, Holder-A.Lee.",2,"ARI",1,1,23860,"10:27:00",31,0,2,-2,2427
+"7",2018112508,595,"(4:26) (Field Goal formation) P.Dawson 30 yard field goal is GOOD, Center-A.Brewer, Holder-A.Lee.",1,"ARI",0,1,23860,"04:26:00",30,0,7,-7,2966
+"8",2018112508,1192,"(9:45) (Field Goal formation) P.Dawson 46 yard field goal is No Good, Wide Left, Center-A.Brewer, Holder-A.Lee.",2,"ARI",0,0,23860,"09:45:00",46,7,10,-3,2385

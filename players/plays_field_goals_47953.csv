@@ -1,0 +1,35 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2019091600,581,"(6:19) A.Seibert 48 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",1,"CLE",0,1,47953,"06:19:00",48,0,3,-3,3079
+"2",2019092213,1068,"(11:44) A.Seibert 23 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",1,1,47953,"11:44:00",23,0,3,-3,2504
+"3",2019092213,2017,"(:04) A.Seibert 35 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",1,1,47953,"00:04:00",35,3,3,0,1804
+"4",2019092901,1866,"(:11) A.Seibert 24 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",0,1,47953,"00:11:00",24,7,7,0,1811
+"5",2019092901,3515,"(7:01) A.Seibert 43 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",4,"CLE",0,1,47953,"07:01:00",43,18,30,-12,421
+"6",2019102711,2524,"(8:41) A.Seibert 38 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",3,"CLE",0,1,47953,"08:41:00",38,17,7,10,1421
+"7",2019102711,3967,"(2:38) A.Seibert 47 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",4,"CLE",0,1,47953,"02:38:00",47,27,10,17,158
+"8",2019110309,943,"(12:52) A.Seibert 39 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",0,1,47953,"12:52:00",39,7,0,7,2572
+"9",2019110309,1231,"(7:17) A.Seibert 30 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",0,1,47953,"07:17:00",30,14,3,11,2237
+"10",2019110309,1501,"(3:53) A.Seibert 27 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",0,1,47953,"03:53:00",27,14,6,8,2033
+"11",2019110309,2097,"(:19) A.Seibert 30 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",0,1,47953,"00:19:00",30,17,9,8,1819
+"12",2019111002,1635,"(3:38) (Field Goal formation) A.Seibert 27 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",1,1,47953,"03:38:00",27,6,7,-1,2018
+"13",2019111002,2828,"(3:53) (Field Goal formation) A.Seibert 47 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",3,"CLE",1,1,47953,"03:53:00",47,9,9,0,1133
+"14",2019111400,2016,"(2:36) (Field Goal formation) A.Seibert 45 yard field goal is No Good, Wide Right, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",1,0,47953,"02:36:00",45,14,0,14,1956
+"15",2019111400,3393,"(:01) A.Seibert 50 yard field goal is No Good, Wide Right, Center-C.Hughlett, Holder-J.Gillan.",3,"CLE",1,0,47953,"00:01:00",50,14,7,7,901
+"16",2019112404,2961,"(4:08) A.Seibert 46 yard field goal is No Good, Wide Right, Center-C.Hughlett, Holder-J.Gillan.",3,"CLE",1,0,47953,"04:08:00",46,28,10,18,1148
+"17",2019112404,3571,"(11:25) A.Seibert 40 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",4,"CLE",1,1,47953,"11:25:00",40,28,17,11,685
+"18",2019112404,3946,"(6:54) A.Seibert 26 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",4,"CLE",1,1,47953,"06:54:00",26,31,17,14,414
+"19",2019120110,423,"(7:34) (Field Goal formation) A.Seibert 31 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",1,"CLE",0,1,47953,"07:34:00",31,0,0,0,3154
+"20",2019120110,3331,"(7:34) (Field Goal formation) A.Seibert 34 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",4,"CLE",0,1,47953,"07:34:00",34,20,10,10,454
+"21",2019120802,3151,"(:20) (Field Goal formation) A.Seibert 53 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",3,"CLE",1,1,47953,"00:20:00",53,21,16,5,920
+"22",2019120802,4176,"(1:09) (Field Goal formation) A.Seibert 31 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",4,"CLE",1,1,47953,"01:09:00",31,24,16,8,69
+"23",2019121509,1570,"(4:39) A.Seibert 44 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",0,1,47953,"04:39:00",44,14,7,7,2079
+"24",2019121509,3148,"(12:09) A.Seibert 45 yard field goal is No Good, Wide Left, Center-C.Hughlett, Holder-J.Gillan.",4,"CLE",0,0,47953,"12:09:00",45,28,17,11,729
+"25",2019122206,2926,"(3:29) A.Seibert 47 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",3,"CLE",1,1,47953,"03:29:00",47,6,21,-15,1109
+"26",2019122903,1446,"(6:58) A.Seibert 42 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",0,1,47953,"06:58:00",42,20,7,13,2218
+"27",2020091301,1853,"(:46) A.Seibert 41 yard field goal is No Good, Wide Right, Center-C.Hughlett, Holder-J.Gillan.",2,"CLE",0,0,47953,"00:46:00",41,17,6,11,1846
+"28",2020122100,565,"(5:16) A.Seibert 34 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",1,"CIN",1,1,47953,"05:16:00",34,0,0,0,3016
+"29",2020122100,810,"(1:44) A.Seibert 55 yard field goal is No Good, Wide Right, Center-C.Harris, Holder-K.Huber.",1,"CIN",1,0,47953,"01:44:00",55,3,0,3,2804
+"30",2020122100,3758,"(:16) A.Seibert 33 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",4,"CIN",1,1,47953,"00:16:00",33,24,17,7,16
+"31",2020122706,1088,"(10:10) A.Seibert 49 yard field goal is No Good, Wide Left, Center-C.Harris, Holder-K.Huber.",2,"CIN",0,0,47953,"10:10:00",49,3,7,-4,2410
+"32",2020122706,1463,"(3:33) A.Seibert 35 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",2,"CIN",0,1,47953,"03:33:00",35,3,7,-4,2013
+"33",2020122706,3054,"(10:39) A.Seibert 48 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",4,"CIN",0,1,47953,"10:39:00",48,24,24,0,639
+"34",2020122706,3867,"(:21) A.Seibert 36 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",4,"CIN",0,1,47953,"00:21:00",36,31,34,-3,21

@@ -1,0 +1,94 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018091001,1331,"(9:30) G.Zuerlein 46 yard field goal is No Good, Wide Right, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,0,38701,"09:30:00",46,10,7,3,2370
+"2",2018091001,1746,"(2:43) G.Zuerlein 20 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,1,38701,"02:43:00",20,10,7,3,1963
+"3",2018091001,2438,"(9:07) G.Zuerlein 28 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",0,1,38701,"09:07:00",28,13,10,3,1447
+"4",2018091001,3870,"(3:18) G.Zuerlein 20 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",0,1,38701,"03:18:00",20,13,23,-10,198
+"5",2018102111,509,"(6:38) G.Zuerlein 35 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,1,38701,"06:38:00",35,0,0,0,3098
+"6",2018102111,1245,"(10:08) G.Zuerlein 37 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,1,38701,"10:08:00",37,0,12,-12,2408
+"7",2018102111,2484,"(8:09) G.Zuerlein 33 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",0,1,38701,"08:09:00",33,7,22,-15,1389
+"8",2018102810,3393,"(11:44) G.Zuerlein 43 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",1,1,38701,"11:44:00",43,23,20,3,704
+"9",2018102810,4011,"(2:09) G.Zuerlein 34 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",1,1,38701,"02:09:00",34,26,27,-1,129
+"10",2018110409,1686,"(3:35) G.Zuerlein 51 yard field goal is No Good, Wide Right, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,0,38701,"03:35:00",51,21,14,7,2015
+"11",2018110409,2315,"(:02) (Field Goal formation) G.Zuerlein 56 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,1,38701,"00:02:00",56,35,14,21,1802
+"12",2018110409,3111,"(1:34) (Field Goal formation) G.Zuerlein 34 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",0,1,38701,"01:34:00",34,35,24,11,994
+"13",2018111110,991,"(14:53) G.Zuerlein 35 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"14:53:00",35,7,14,-7,2693
+"14",2018111110,2231,"(9:49) G.Zuerlein 37 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",1,1,38701,"09:49:00",37,17,14,3,1489
+"15",2018111110,3367,"(7:39) G.Zuerlein 20 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",1,1,38701,"07:39:00",20,26,24,2,459
+"16",2018111900,1384,"(14:58) G.Zuerlein 23 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"14:58:00",23,13,7,6,2698
+"17",2018111900,3575,"(2:29) G.Zuerlein 33 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",1,1,38701,"02:29:00",33,30,30,0,1049
+"18",2018120202,730,"(3:20) G.Zuerlein 24 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,1,38701,"03:20:00",24,0,0,0,2900
+"19",2018120202,2006,"(:48) G.Zuerlein 47 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,1,38701,"00:48:00",47,3,10,-7,1848
+"20",2018120202,2900,"(5:51) G.Zuerlein 48 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",0,1,38701,"05:51:00",48,6,13,-7,1251
+"21",2018120901,328,"(9:16) G.Zuerlein 27 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,1,38701,"09:16:00",27,0,0,0,3256
+"22",2018120901,1877,"(4:17) G.Zuerlein 50 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,1,38701,"04:17:00",50,6,3,3,2057
+"23",2018120901,3900,"(10:16) G.Zuerlein 40 yard field goal is No Good, Hit Right Upright, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",0,0,38701,"10:16:00",40,15,6,9,616
+"24",2018121611,1528,"(4:41) G.Zuerlein 41 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"04:41:00",41,7,6,1,2081
+"25",2018121611,2104,"(:04) G.Zuerlein 36 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"00:04:00",36,10,13,-3,1804
+"26",2018121611,3624,"(9:28) G.Zuerlein 37 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",1,1,38701,"09:28:00",37,13,30,-17,568
+"27",2018122311,2105,"(:04) (Field Goal formation) G.Zuerlein 57 yard field goal is No Good, Hit Left Upright, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,0,38701,"00:04:00",57,9,21,-12,1804
+"28",2018122311,2622,"(5:41) G.Zuerlein 21 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",0,1,38701,"05:41:00",21,9,21,-12,1241
+"29",2018123014,2611,"(:03) G.Zuerlein 28 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"00:03:00",28,28,10,18,1803
+"30",2018123014,3625,"(11:49) G.Zuerlein 51 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",1,1,38701,"11:49:00",51,45,17,28,709
+"31",2019090800,1027,"(13:48) G.Zuerlein 49 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,1,38701,"13:48:00",49,0,0,0,2628
+"32",2019091512,425,"(8:46) G.Zuerlein 24 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",1,1,38701,"08:46:00",24,0,0,0,3226
+"33",2019091512,2119,"(:07) G.Zuerlein 22 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"00:07:00",22,3,3,0,1807
+"34",2019092213,658,"(4:10) G.Zuerlein 53 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,1,38701,"04:10:00",53,0,0,0,2950
+"35",2019092213,1552,"(4:13) G.Zuerlein 48 yard field goal is No Good, Wide Right, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,0,38701,"04:13:00",48,3,3,0,2053
+"36",2019092213,3553,"(6:40) G.Zuerlein 37 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",0,1,38701,"06:40:00",37,13,17,-4,400
+"37",2019092909,2582,"(:07) G.Zuerlein 58 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"00:07:00",58,14,28,-14,1807
+"38",2019092909,3035,"(9:08) G.Zuerlein 44 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",1,1,38701,"09:08:00",44,17,28,-11,1448
+"39",2019100300,278,"(12:29) G.Zuerlein 47 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,1,38701,"12:29:00",47,0,0,0,3449
+"40",2019100300,694,"(4:59) G.Zuerlein 32 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,1,38701,"04:59:00",32,0,3,-3,2999
+"41",2019100300,3789,"(9:23) G.Zuerlein 36 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",0,1,38701,"09:23:00",36,24,26,-2,563
+"42",2019100300,4745,"(:15) G.Zuerlein 44 yard field goal is No Good, Wide Right, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",0,0,38701,"00:15:00",44,30,29,1,15
+"43",2019102000,587,"(5:11) G.Zuerlein 40 yard field goal is No Good, Hit Left Upright, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,0,38701,"05:11:00",40,3,0,3,3011
+"44",2019102000,807,"(1:47) G.Zuerlein 55 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,1,38701,"01:47:00",55,3,0,3,2807
+"45",2019102000,1857,"(2:00) G.Zuerlein 25 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,1,38701,"02:00:00",25,3,10,-7,1920
+"46",2019102000,3663,"(5:46) G.Zuerlein 20 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",0,1,38701,"05:46:00",20,3,27,-24,346
+"47",2019111711,1134,"(11:38) G.Zuerlein 38 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"11:38:00",38,0,0,0,2498
+"48",2019112500,1237,"(9:50) G.Zuerlein 32 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"09:50:00",32,0,14,-14,2390
+"49",2019112500,1756,"(2:00) G.Zuerlein 46 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,38701,"02:00:00",46,3,21,-18,1920
+"50",2019120108,274,"(10:00) G.Zuerlein 27 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,1,38701,"10:00:00",27,0,0,0,3300
+"51",2019120108,607,"(5:59) G.Zuerlein 41 yard field goal is No Good, Wide Left, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",0,0,38701,"05:59:00",41,0,3,-3,3059
+"52",2019120108,2248,"(:04) G.Zuerlein 33 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,1,38701,"00:04:00",33,0,17,-17,1804
+"53",2019120813,2645,"(5:45) G.Zuerlein 37 yard field goal is BLOCKED (R.Green), Center-J.McQuaide, Holder-J.Hekker.",3,"LA",1,0,38701,"05:45:00",NA,21,9,12,1245
+"54",2019122102,2312,"(13:58) G.Zuerlein 52 yard field goal is No Good, Wide Left, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",0,0,38701,"13:58:00",52,24,21,3,1738
+"55",2019122102,3923,"(2:36) G.Zuerlein 52 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",0,1,38701,"02:36:00",52,31,28,3,156
+"56",2019122914,294,"(9:17) G.Zuerlein 47 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",1,1,38701,"09:17:00",47,0,0,0,3257
+"57",2019122914,2003,"(1:05) G.Zuerlein 47 yard field goal is No Good, Wide Right, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,0,38701,"01:05:00",47,17,7,10,1865
+"58",2020091312,3249,"(1:54) G.Zuerlein 33 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",3,"DAL",0,1,38701,"01:54:00",33,20,14,6,1014
+"59",2020092001,2316,"(1:50) G.Zuerlein 33 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",2,"DAL",1,1,38701,"01:50:00",33,7,26,-19,1910
+"60",2020092001,5135,"(:04) G.Zuerlein 46 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",4,"DAL",1,1,38701,"00:04:00",46,37,39,-2,4
+"61",2020092712,456,"(8:14) G.Zuerlein 43 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",1,"DAL",0,1,38701,"08:14:00",43,0,0,0,3194
+"62",2020092712,4412,"(4:03) G.Zuerlein 42 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",4,"DAL",0,1,38701,"04:03:00",42,30,28,2,243
+"63",2020101111,313,"(11:23) G.Zuerlein 24 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",1,"DAL",1,1,38701,"11:23:00",24,0,0,0,3383
+"64",2020101111,3889,"(2:00) G.Zuerlein 40 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",4,"DAL",1,1,38701,"02:00:00",40,31,34,-3,120
+"65",2020101900,2248,"(:13) G.Zuerlein 34 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",2,"DAL",1,1,38701,"00:13:00",34,0,21,-21,1813
+"66",2020101900,2951,"(5:48) G.Zuerlein 58 yard field goal is No Good, Wide Right, Center-L.Ladouceur, Holder-C.Jones.",3,"DAL",1,0,38701,"05:48:00",58,3,28,-25,1248
+"67",2020102507,852,"(1:58) G.Zuerlein 45 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",1,"DAL",0,1,38701,"01:58:00",45,9,0,9,2818
+"68",2020110110,237,"(10:15) G.Zuerlein 49 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",1,"DAL",0,1,38701,"10:15:00",49,0,0,0,3315
+"69",2020110110,1212,"(9:50) G.Zuerlein 49 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",2,"DAL",0,1,38701,"09:50:00",49,7,3,4,2390
+"70",2020110110,2039,"(:10) G.Zuerlein 59 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",2,"DAL",0,1,38701,"00:10:00",59,7,6,1,1810
+"71",2020110110,2544,"(6:18) G.Zuerlein 52 yard field goal is No Good, Wide Right, Center-L.Ladouceur, Holder-C.Jones.",3,"DAL",0,0,38701,"06:18:00",52,7,9,-2,1278
+"72",2020110810,1394,"(3:50) G.Zuerlein 44 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",2,"DAL",1,1,38701,"03:50:00",44,10,0,10,2030
+"73",2020110810,2305,"(10:22) G.Zuerlein 45 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",3,"DAL",1,1,38701,"10:22:00",45,13,9,4,1522
+"74",2020110810,2672,"(2:17) G.Zuerlein 39 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",3,"DAL",1,1,38701,"02:17:00",39,16,9,7,1037
+"75",2020112601,388,"(8:33) G.Zuerlein 33 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",1,"DAL",1,1,38701,"08:33:00",33,0,0,0,3213
+"76",2020112601,2867,"(2:36) G.Zuerlein 28 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",3,"DAL",1,1,38701,"02:36:00",28,13,20,-7,1056
+"77",2020120800,537,"(4:24) G.Zuerlein 31 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",1,"DAL",0,1,38701,"04:24:00",31,0,0,0,2964
+"78",2020120800,1555,"(2:06) G.Zuerlein 40 yard field goal is No Good, Wide Right, Center-L.Ladouceur, Holder-H.Niswander.",2,"DAL",0,0,38701,"02:06:00",40,14,10,4,1926
+"79",2020120800,2397,"(9:11) G.Zuerlein 53 yard field goal is No Good, Wide Left, Center-L.Ladouceur, Holder-H.Niswander.",3,"DAL",0,0,38701,"09:11:00",53,17,10,7,1451
+"80",2020120800,2981,"(14:18) G.Zuerlein 52 yard field goal is No Good, Wide Right, Center-L.Ladouceur, Holder-H.Niswander.",4,"DAL",0,0,38701,"14:18:00",52,24,10,14,858
+"81",2020121302,280,"(11:05) G.Zuerlein 34 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",1,"DAL",0,1,38701,"11:05:00",34,0,0,0,3365
+"82",2020121302,2046,"(11:38) G.Zuerlein 20 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",3,"DAL",0,1,38701,"11:38:00",20,7,17,-10,1598
+"83",2020121302,3381,"(5:17) G.Zuerlein 55 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",4,"DAL",0,1,38701,"05:17:00",55,7,20,-13,317
+"84",2020122013,1403,"(11:41) G.Zuerlein 48 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",2,"DAL",1,1,38701,"11:41:00",48,14,7,7,2501
+"85",2020122013,2264,"(:27) G.Zuerlein 60 yard field goal is No Good, Wide Right, Center-L.Ladouceur, Holder-H.Niswander.",2,"DAL",1,0,38701,"00:27:00",60,17,14,3,1827
+"86",2020122013,3664,"(10:12) G.Zuerlein 46 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",4,"DAL",1,1,38701,"10:12:00",46,24,24,0,612
+"87",2020122712,568,"(6:12) G.Zuerlein 35 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",1,"DAL",1,1,38701,"06:12:00",35,0,7,-7,3072
+"88",2020122712,1568,"(5:56) G.Zuerlein 20 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",2,"DAL",1,1,38701,"05:56:00",20,10,14,-4,2156
+"89",2020122712,2858,"(8:34) G.Zuerlein 21 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",3,"DAL",1,1,38701,"08:34:00",21,27,17,10,1414
+"90",2021010308,652,"(5:07) G.Zuerlein 38 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",1,"DAL",0,1,38701,"05:07:00",38,6,0,6,3007
+"91",2021010308,1784,"(2:18) G.Zuerlein 46 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",2,"DAL",0,1,38701,"02:18:00",46,13,3,10,1938
+"92",2021010308,2312,"(:04) G.Zuerlein 57 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",2,"DAL",0,1,38701,"00:04:00",57,20,6,14,1804
+"93",2021010308,3373,"(14:20) G.Zuerlein 36 yard field goal is GOOD, Center-L.Ladouceur, Holder-H.Niswander.",4,"DAL",0,1,38701,"14:20:00",36,20,16,4,860

@@ -1,0 +1,63 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018090903,240,"(10:22) (Field Goal formation) R.Succop 47 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",1,"TEN",0,1,34707,"10:22:00",47,0,0,0,3322
+"2",2018090903,4143,"(:16) (Field Goal formation) R.Succop 53 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",0,1,34707,"00:16:00",53,27,17,10,16
+"3",2018091607,3159,"(9:48) (Field Goal formation) R.Succop 42 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",1,1,34707,"09:48:00",42,14,17,-3,588
+"4",2018091607,3741,"(1:05) (Field Goal formation) R.Succop 31 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",1,1,34707,"01:05:00",31,17,17,0,65
+"5",2018092304,1996,"(:02) R.Succop 48 yard field goal is No Good, Wide Right, Center-B.Brinkley, Holder-B.Kern.",2,"TEN",0,0,34707,"00:02:00",48,3,3,0,1802
+"6",2018092304,2328,"(10:05) (Field Goal formation) R.Succop 36 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",3,"TEN",0,1,34707,"10:05:00",36,3,3,0,1505
+"7",2018092304,3429,"(4:13) R.Succop 28 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",0,1,34707,"04:13:00",28,6,6,0,253
+"8",2018093007,220,"(11:26) (Field Goal formation) R.Succop 42 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",1,"TEN",1,1,34707,"11:26:00",42,0,0,0,3386
+"9",2018093007,3009,"(9:22) (Field Goal formation) R.Succop 33 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",1,1,34707,"09:22:00",33,10,17,-7,562
+"10",2018100700,912,"(1:39) R.Succop 25 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",1,"TEN",0,1,34707,"01:39:00",25,7,0,7,2799
+"11",2018100700,1957,"(:03) R.Succop 54 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",2,"TEN",0,1,34707,"00:03:00",54,7,3,4,1803
+"12",2018100700,3215,"(10:34) R.Succop 39 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",0,1,34707,"10:34:00",39,10,6,4,634
+"13",2018100700,3520,"(4:47) R.Succop 50 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",0,1,34707,"04:47:00",50,10,9,1,287
+"14",2018102100,290,"(9:47) (Field Goal formation) R.Succop 28 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",1,"TEN",0,1,34707,"09:47:00",28,0,0,0,3287
+"15",2018102100,941,"(12:55) (Field Goal formation) R.Succop 33 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",2,"TEN",0,1,34707,"12:55:00",33,10,3,7,2575
+"16",2018110500,3100,"(11:02) (Field Goal formation) R.Succop 28 yard field goal is No Good, Hit Left Upright, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",0,0,34707,"11:02:00",28,14,21,-7,662
+"17",2018111108,944,"(2:39) (Field Goal formation) R.Succop 33 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",1,"TEN",1,1,34707,"02:39:00",33,14,3,11,2859
+"18",2018111108,2904,"(4:19) (Field Goal formation) R.Succop 31 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",3,"TEN",1,1,34707,"04:19:00",31,24,10,14,1159
+"19",2018111804,2112,"(:03) R.Succop 42 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",2,"TEN",0,1,34707,"00:03:00",42,24,0,24,1803
+"20",2018112600,216,"(11:50) R.Succop 31 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",1,"TEN",0,1,34707,"11:50:00",31,0,0,0,3410
+"21",2018120211,3412,"(9:33) (Field Goal formation) R.Succop 24 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",1,1,34707,"09:33:00",24,13,22,-9,573
+"22",2018120211,3633,"(5:44) (Field Goal formation) R.Succop 33 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",1,1,34707,"05:44:00",33,16,22,-6,344
+"23",2018120600,2054,"(:10) (Field Goal formation) R.Succop 33 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",2,"TEN",1,1,34707,"00:10:00",33,13,2,11,1810
+"24",2018121608,275,"(11:30) R.Succop 48 yard field goal is No Good, Wide Left, Center-B.Brinkley, Holder-B.Kern.",1,"TEN",0,0,34707,"11:30:00",48,0,0,0,3390
+"25",2018121608,3876,"(5:09) R.Succop 22 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",0,1,34707,"05:09:00",22,0,14,-14,309
+"26",2018122200,1809,"(:01) (Field Goal formation) R.Succop 42 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",2,"TEN",1,1,34707,"00:01:00",42,6,10,-4,1801
+"27",2018122200,2739,"(15:00) (Field Goal formation) R.Succop 33 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",1,1,34707,"15:00:00",33,9,13,-4,900
+"28",2018123011,2135,"(:05) (Field Goal formation) R.Succop 38 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern. Penalty on IND-M.Hunt, Unnecessary Roughness, declined.",2,"TEN",1,1,34707,"00:05:00",38,7,17,-10,1805
+"29",2019110302,316,"(9:47) R.Succop 43 yard field goal is No Good, Wide Left, Center-B.Brinkley, Holder-B.Kern.",1,"TEN",0,0,34707,"09:47:00",43,0,0,0,3287
+"30",2019110302,4490,"(:52) R.Succop 44 yard field goal is No Good, Hit Right Upright, Center-B.Brinkley, Holder-B.Kern.",4,"TEN",0,0,34707,"00:52:00",44,30,20,10,52
+"31",2019120103,2670,"(4:30) R.Succop 31 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",3,"TEN",0,1,34707,"04:30:00",31,17,14,3,1170
+"32",2019120812,2051,"(:04) R.Succop 42 yard field goal is No Good, Hit Left Upright, Center-B.Brinkley, Holder-B.Kern.",2,"TEN",0,0,34707,"00:04:00",42,21,21,0,1804
+"33",2019121507,502,"(7:08) (Field Goal formation) R.Succop 45 yard field goal is BLOCKED (A.Blackson), Center-B.Brinkley, Holder-B.Kern, RECOVERED by HOU-A.Moore at HOU 23. A.Moore to HOU 23 for no gain (J.Conklin).",1,"TEN",1,0,34707,"07:08:00",NA,0,0,0,3128
+"34",2020091310,1503,"(3:36) R.Succop 54 yard field goal is BLOCKED (M.Hunt), Center-Z.Triner, Holder-B.Pinion, RECOVERED by NO-P.Robinson at NO 45.",2,"TB",0,0,34707,"03:36:00",NA,14,7,7,2016
+"35",2020091310,3097,"(2:27) R.Succop 38 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",3,"TB",0,1,34707,"02:27:00",38,24,14,10,1047
+"36",2020092008,3694,"(6:18) R.Succop 33 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4,"TB",1,1,34707,"06:18:00",33,21,14,7,378
+"37",2020092711,999,"(:19) R.Succop 43 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",1,"TB",0,1,34707,"00:19:00",43,0,7,-7,2719
+"38",2020092711,3178,"(:00) R.Succop 35 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion. Penalty on DEN-B.Callahan, Defensive Offside, declined.",3,"TB",0,1,34707,"00:00:00",35,10,25,-15,900
+"39",2020100407,1706,"(4:59) R.Succop 44 yard field goal is No Good, Wide Left, Center-Z.Triner, Holder-B.Pinion.",2,"TB",1,0,34707,"04:59:00",44,7,21,-14,2099
+"40",2020100407,3825,"(2:44) R.Succop 26 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4,"TB",1,1,34707,"02:44:00",26,35,31,4,164
+"41",2020100800,1650,"(7:08) R.Succop 35 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",2,"TB",0,1,34707,"07:08:00",35,0,10,-10,2228
+"42",2020100800,2753,"(9:09) R.Succop 46 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",3,"TB",0,1,34707,"09:09:00",46,14,13,1,1449
+"43",2020100800,3855,"(4:52) R.Succop 25 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4,"TB",0,1,34707,"04:52:00",25,17,16,1,292
+"44",2020102511,2592,"(8:20) R.Succop 29 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",3,"TB",0,1,34707,"08:20:00",29,10,21,-11,1400
+"45",2020110200,321,"(9:46) R.Succop 37 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",1,"TB",0,1,34707,"09:46:00",37,0,0,0,3286
+"46",2020110200,2126,"(:11) R.Succop 40 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",2,"TB",0,1,34707,"00:11:00",40,14,3,11,1811
+"47",2020110200,2506,"(10:05) R.Succop 43 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",3,"TB",0,1,34707,"10:05:00",43,14,6,8,1505
+"48",2020110200,3922,"(3:44) R.Succop 38 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4,"TB",0,1,34707,"03:44:00",38,17,22,-5,224
+"49",2020110811,3372,"(5:57) R.Succop 48 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4,"TB",1,1,34707,"05:57:00",48,0,38,-38,357
+"50",2020111500,1162,"(10:03) R.Succop 23 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",2,"TB",0,1,34707,"10:03:00",23,14,7,7,2403
+"51",2020111500,2281,"(11:02) R.Succop 24 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",3,"TB",0,1,34707,"11:02:00",24,17,17,0,1562
+"52",2020111500,2789,"(3:14) R.Succop 21 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",3,"TB",0,1,34707,"03:14:00",21,17,26,-9,1094
+"53",2020111500,3129,"(12:47) R.Succop 40 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4,"TB",0,1,34707,"12:47:00",40,17,29,-12,767
+"54",2020112300,2214,"(12:46) R.Succop 38 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",3,"TB",1,1,34707,"12:46:00",38,14,17,-3,1666
+"55",2020112910,2406,"(11:08) R.Succop 26 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",3,"TB",1,1,34707,"11:08:00",26,7,20,-13,1568
+"56",2020121307,1989,"(:00) R.Succop 19 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",2,"TB",1,1,34707,"00:00:00",19,14,6,8,1800
+"57",2020121307,3327,"(5:20) R.Succop 48 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4,"TB",1,1,34707,"05:20:00",48,23,14,9,320
+"58",2020122005,3392,"(11:15) R.Succop 27 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4,"TB",0,1,34707,"11:15:00",27,24,21,3,675
+"59",2020122600,3687,"(7:44) R.Succop 42 yard field goal is No Good, Wide Left, Center-Z.Triner, Holder-B.Pinion.",4,"TB",0,0,34707,"07:44:00",42,7,47,-40,464
+"60",2021010310,812,"(:11) R.Succop 29 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",1,"TB",1,1,34707,"00:11:00",29,7,3,4,2711
+"61",2021010310,1394,"(8:49) R.Succop 38 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",2,"TB",1,1,34707,"08:49:00",38,17,3,14,2329
+"62",2021010310,2164,"(:05) R.Succop 25 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",2,"TB",1,1,34707,"00:05:00",25,20,10,10,1805

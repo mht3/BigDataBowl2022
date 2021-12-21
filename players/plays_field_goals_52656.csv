@@ -1,0 +1,11 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2020091312,884,"(:05) S.Sloman 29 yard field goal is No Good, Hit Left Upright, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",1,0,52656,"00:05:00",29,7,0,7,2705
+"2",2020091312,1475,"(8:46) S.Sloman 35 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,52656,"08:46:00",35,7,7,0,2326
+"3",2020091312,1873,"(2:00) S.Sloman 31 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,52656,"02:00:00",31,10,7,3,1920
+"4",2020092006,2928,"(2:18) S.Sloman 30 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",0,1,52656,"02:18:00",30,16,21,-5,1038
+"5",2020100410,1390,"(3:56) S.Sloman 32 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,52656,"03:56:00",32,7,3,4,2036
+"6",2020101811,2413,"(12:11) S.Sloman 42 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,"LA",0,1,52656,"12:11:00",42,21,6,15,1631
+"7",2020102600,1602,"(4:59) S.Sloman 22 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",1,1,52656,"04:59:00",22,7,3,4,2099
+"8",2020102600,3258,"(12:50) S.Sloman 48 yard field goal is BLOCKED (R.Robertson-Harris), Center-J.McQuaide, Holder-J.Hekker.",4,"LA",1,0,52656,"12:50:00",NA,24,3,21,770
+"9",2021010312,505,"(6:46) S.Sloman 47 yard field goal is GOOD, Center-M.Overton, Holder-B.Kern.",1,"TEN",0,1,52656,"06:46:00",47,0,0,0,3106
+"10",2021010312,4166,"(:04) S.Sloman 37 yard field goal is GOOD, Center-M.Overton, Holder-B.Kern. Kick hits right upright and bounces through for the field goal.",4,"TEN",0,1,52656,"00:04:00",37,38,38,0,4
