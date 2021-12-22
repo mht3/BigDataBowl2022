@@ -15,6 +15,7 @@ from sklearn.preprocessing import LabelEncoder
 import tensorflow as tf
 from tensorflow.keras import layers
 from collections import Counter
+import player_dictionary
 
 
 def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix"):
@@ -36,11 +37,14 @@ def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix")
 # Preprocessing (splitting into training/testing and standardizing) the data
 def preprocess(dataset):
     dataset = dataset.drop(["Unnamed: 0", "gameId", "playId"], axis=1)
+
     data_cols = ["possessionTeam", "Home", "kickLength", "scoreDifference", "secondsRemain"]
+
 
     # Encode data to represent teams as integers 1-32
     le = LabelEncoder()
-    dataset.loc[:,"possessionTeam"] = le.fit_transform(dataset["possessionTeam"].astype(str))
+    dataset.loc[:,["possessionTeam"]] = le.fit_transform(dataset["possessionTeam"].astype(str))
+    # dataset.loc[:,["kickerId"]] = le.fit_transform(dataset["kickerId"].astype(str))
 
     # Kick length column contains some Nan values when a kick is blocked.
     # Remove these rows as they do not reflect a level of clutchness.
@@ -137,7 +141,6 @@ def plot_accuracy_loss(history):
 
 def main():
     dataset = pd.read_csv('plays/plays_regularTime_tidy.csv')
-    kickerIds = dataset["kickerId"]
     X_train, X_test, y_train, y_test = preprocess(dataset)
     baseline_accuracy = peek_majority_prediction(dataset)
 
