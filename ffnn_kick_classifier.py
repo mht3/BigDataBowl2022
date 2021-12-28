@@ -79,9 +79,8 @@ def build_model(num_features):
     # Hidden Layers
     model.add(layers.Dense(16,activation='relu'))
     model.add(layers.Dropout(0.2))
-    model.add(layers.Dense(8,activation='relu'))
-    model.add(layers.Dropout(0.2))
-    # model.add(tf.keras.layers.Flatten())
+    # model.add(layers.Dense(8,activation='relu'))
+    # model.add(layers.Dropout(0.2))
     model.add(layers.Dense(1, activation='sigmoid'))
     
     # Need a precision recall curve plot. Focuses on accuracy for the minority class
@@ -94,9 +93,11 @@ def build_model(num_features):
 # Training the model
 def train_model(X_train, y_train, model, epochs, batch_size):
     # stop = tf.keras.callbacks.EarlyStopping(monitor='acc', verbose=1, patience=10, mode='max', restore_best_weights=True)
-    stop = tf.keras.callbacks.EarlyStopping(monitor='val_loss', mode='min',verbose=0,patience=10)
-    class_weight ={ 0: 1.5, 1: 1}
-    fitter = model.fit(X_train, y_train, class_weight=class_weight, epochs=epochs,batch_size=batch_size, callbacks=[stop], validation_split=0.2, verbose=1)
+    stop = tf.keras.callbacks.EarlyStopping(monitor='val_prc', mode='max', verbose=0,patience=10)
+    # class_weight ={ 0: 1.5, 1: 1}
+    X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.3, random_state=10, stratify=y_train)
+    fitter = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, callbacks=[stop],
+                        validation_data=(X_val, y_val), verbose=1)
     return fitter
 
 # plotting categorical and validation accuracy over epochs
@@ -146,8 +147,8 @@ def main():
 
     # Building the Neural Net
     num_features = X_train.shape[1]
-    batch_size = 16
-    epochs = 32
+    batch_size = 32
+    epochs = 64
 
     model = build_model(num_features=num_features)
     fitter = train_model(X_train, y_train, model=model, epochs=epochs,batch_size=batch_size)
