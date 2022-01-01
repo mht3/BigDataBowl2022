@@ -1,0 +1,24 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2019100610,1286,"(8:49) C.McLaughlin 48 yard field goal is BLOCKED (D.Jones), Center-C.Mazza, Holder-T.Long.",2,"LAC",1,0,48488,"08:49:00",NA,0,14,-14,2329
+"2",2019100610,3440,"(6:52) C.McLaughlin 45 yard field goal is GOOD, Center-C.Mazza, Holder-T.Long.",4,"LAC",1,1,48488,"06:52:00",45,7,17,-10,412
+"3",2019100610,4130,"(:15) C.McLaughlin 32 yard field goal is GOOD, Center-C.Mazza, Holder-T.Long.",4,"LAC",1,1,48488,"00:15:00",32,10,20,-10,15
+"4",2019101311,1512,"(:37) C.McLaughlin 43 yard field goal is No Good, Hit Left Upright, Center-C.Mazza, Holder-T.Long.",2,"LAC",1,0,48488,"00:37:00",43,0,21,-21,1837
+"5",2019101311,2607,"(14:04) C.McLaughlin 38 yard field goal is GOOD, Center-C.Mazza, Holder-T.Long.",4,"LAC",1,1,48488,"14:04:00",38,0,24,-24,844
+"6",2019102008,833,"(:07) (Field Goal formation) C.McLaughlin 29 yard field goal is GOOD, Center-C.Mazza, Holder-T.Long.",1,"LAC",0,1,48488,"00:07:00",29,3,0,3,2707
+"7",2019102008,2990,"(10:59) (Field Goal formation) C.McLaughlin 50 yard field goal is GOOD, Center-C.Mazza, Holder-T.Long.",4,"LAC",0,1,48488,"10:59:00",50,16,10,6,659
+"8",2019102702,2907,"(:42) C.McLaughlin 20 yard field goal is GOOD, Center-C.Mazza, Holder-T.Long.",3,"LAC",0,1,48488,"00:42:00",20,16,7,9,942
+"9",2019102702,3235,"(10:57) C.McLaughlin 42 yard field goal is No Good, Wide Right, Center-C.Mazza, Holder-T.Long.",4,"LAC",0,0,48488,"10:57:00",42,16,10,6,657
+"10",2019111100,426,"(8:24) C.McLaughlin 43 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",1,"SF",1,1,48488,"08:24:00",43,0,0,0,3204
+"11",2019111100,4387,"(:06) C.McLaughlin 47 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",4,"SF",1,1,48488,"00:06:00",47,21,24,-3,6
+"12",2019111708,2360,"(:03) C.McLaughlin 43 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",2,"SF",1,1,48488,"00:03:00",43,7,16,-9,1803
+"13",2019120808,581,"(6:58) C.McLaughlin 50 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",1,"IND",0,1,48488,"06:58:00",50,0,7,-7,3118
+"14",2019120808,2306,"(:03) C.McLaughlin 19 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",2,"IND",0,1,48488,"00:03:00",19,21,24,-3,1803
+"15",2019120808,3747,"(8:18) C.McLaughlin 47 yard field goal is No Good, Hit Right Upright, Center-L.Rhodes, Holder-R.Sanchez.",4,"IND",0,0,48488,"08:18:00",47,31,35,-4,498
+"16",2019122207,2294,"(11:03) (Field Goal formation) C.McLaughlin 35 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",3,"IND",1,1,48488,"11:03:00",35,21,3,18,1563
+"17",2019122907,323,"(9:08) C.McLaughlin 20 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",1,"IND",0,1,48488,"09:08:00",20,0,0,0,3248
+"18",2019122907,1856,"(:44) C.McLaughlin 50 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",2,"IND",0,1,48488,"00:44:00",50,13,17,-4,1844
+"19",2020111503,278,"(10:41) C.McLaughlin 52 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",1,"JAX",0,1,48488,"10:41:00",52,0,0,0,3341
+"20",2020111503,3158,"(12:44) C.McLaughlin 31 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",4,"JAX",0,1,48488,"12:44:00",31,17,17,0,764
+"21",2020112205,231,"(11:02) C.McLaughlin 41 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",1,"JAX",1,1,48488,"11:02:00",41,0,0,0,3362
+"22",2020120604,549,"(6:07) C.McLaughlin 22 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",1,"JAX",0,1,48488,"06:07:00",22,0,6,-6,3067
+"23",2020120604,4568,"(:01) C.McLaughlin 62 yard field goal is No Good, Short, Center-R.Matiscik, Holder-L.Cooke.",4,"JAX",0,0,48488,"00:01:00",62,24,24,0,1

@@ -1,0 +1,58 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018090907,292,"(10:17) J.Lambo 39 yard field goal is GOOD, Center-C.Tinker, Holder-L.Cooke.",1,"JAX",0,1,43068,"10:17:00",39,0,0,0,3317
+"2",2018090907,1201,"(7:22) J.Lambo 39 yard field goal is GOOD, Center-C.Tinker, Holder-L.Cooke.",2,"JAX",0,1,43068,"07:22:00",39,3,3,0,2242
+"3",2018091612,2508,"(7:54) J.Lambo 28 yard field goal is GOOD, Center-C.Tinker, Holder-L.Cooke.",3,"JAX",1,1,43068,"07:54:00",28,21,3,18,1374
+"4",2018092304,1326,"(8:59) J.Lambo 46 yard field goal is GOOD, Center-C.Tinker, Holder-L.Cooke.",2,"JAX",1,1,43068,"08:59:00",46,0,3,-3,2339
+"5",2018092304,3131,"(11:31) J.Lambo 38 yard field goal is GOOD, Center-C.Tinker, Holder-L.Cooke.",4,"JAX",1,1,43068,"11:31:00",38,3,6,-3,691
+"6",2018093005,615,"(3:45) J.Lambo 32 yard field goal is GOOD, Center-C.Tinker, Holder-L.Cooke.",1,"JAX",1,1,43068,"03:45:00",32,0,0,0,2925
+"7",2018093005,1022,"(9:28) J.Lambo 22 yard field goal is GOOD, Center-C.Tinker, Holder-L.Cooke.",2,"JAX",1,1,43068,"09:28:00",22,3,0,3,2368
+"8",2018093005,1796,"(:34) J.Lambo 54 yard field goal is GOOD, Center-C.Tinker, Holder-L.Cooke.",2,"JAX",1,1,43068,"00:34:00",54,13,0,13,1834
+"9",2018102800,466,"(6:56) (Field Goal formation) J.Lambo 50 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",1,"JAX",1,1,43068,"06:56:00",50,0,0,0,3116
+"10",2018102800,1303,"(2:48) (Field Goal formation) J.Lambo 57 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",2,"JAX",1,1,43068,"02:48:00",57,3,3,0,1968
+"11",2018102800,2772,"(13:14) (Field Goal formation) J.Lambo 33 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",4,"JAX",1,1,43068,"13:14:00",33,12,17,-5,794
+"12",2018102800,3234,"(7:00) (Field Goal formation) J.Lambo 24 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",4,"JAX",1,1,43068,"07:00:00",24,15,24,-9,420
+"13",2018111104,2126,"(:09) J.Lambo 28 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",2,"JAX",0,1,43068,"00:09:00",28,29,13,16,1809
+"14",2018111104,2977,"(1:02) J.Lambo 52 yard field goal is No Good, Wide Left, Center-M.Overton, Holder-L.Cooke.",3,"JAX",0,0,43068,"01:02:00",52,29,23,6,962
+"15",2018111104,3730,"(4:08) J.Lambo 55 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",4,"JAX",0,1,43068,"04:08:00",55,29,23,6,248
+"16",2018111810,942,"(13:15) J.Lambo 48 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",2,"JAX",1,1,43068,"13:15:00",48,0,0,0,2595
+"17",2018111810,1181,"(8:34) J.Lambo 38 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",2,"JAX",1,1,43068,"08:34:00",38,3,0,3,2314
+"18",2018111810,1532,"(3:41) J.Lambo 43 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke. Penalty on PIT-D.McCullers, Illegal Formation, declined.",2,"JAX",1,1,43068,"03:41:00",43,6,0,6,2021
+"19",2018112501,3303,"(:39) J.Lambo 42 yard field goal is No Good, Wide Left, Center-M.Overton, Holder-L.Cooke.",3,"JAX",0,0,43068,"00:39:00",42,14,14,0,939
+"20",2018120205,1877,"(2:13) J.Lambo 30 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",2,"JAX",1,1,43068,"02:13:00",30,0,0,0,1933
+"21",2018120205,3320,"(11:45) J.Lambo 37 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",4,"JAX",1,1,43068,"11:45:00",37,3,0,3,705
+"22",2019090802,1066,"(11:39) J.Lambo 37 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",1,1,43068,"11:39:00",37,7,17,-10,2499
+"23",2019090802,1490,"(4:25) J.Lambo 23 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",1,1,43068,"04:25:00",23,10,20,-10,2065
+"24",2019091504,1509,"(3:21) J.Lambo 40 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",0,1,43068,"03:21:00",40,3,0,3,2001
+"25",2019091504,3244,"(6:05) J.Lambo 32 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",4,"JAX",0,1,43068,"06:05:00",32,13,3,10,365
+"26",2019091900,2582,"(7:59) J.Lambo 40 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",3,"JAX",1,1,43068,"07:59:00",40,14,0,14,1379
+"27",2019092911,664,"(3:16) J.Lambo 25 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",1,"JAX",0,1,43068,"03:16:00",25,7,0,7,2896
+"28",2019092911,2263,"(:11) J.Lambo 40 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",0,1,43068,"00:11:00",40,17,3,14,1811
+"29",2019092911,3879,"(2:58) J.Lambo 34 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",4,"JAX",0,1,43068,"02:58:00",34,17,20,-3,178
+"30",2019092911,4390,"(:04) J.Lambo 33 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",4,"JAX",0,1,43068,"00:04:00",33,24,23,1,4
+"31",2019100600,2198,"(1:01) J.Lambo 35 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",0,1,43068,"01:01:00",35,21,14,7,1861
+"32",2019100600,3759,"(5:57) J.Lambo 38 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",4,"JAX",0,1,43068,"05:57:00",38,28,24,4,357
+"33",2019101303,1683,"(2:44) J.Lambo 22 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",1,1,43068,"02:44:00",22,0,3,-3,1964
+"34",2019101303,2710,"(3:14) J.Lambo 32 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",3,"JAX",1,1,43068,"03:14:00",32,3,6,-3,1094
+"35",2019102002,1375,"(6:34) J.Lambo 21 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",0,1,43068,"06:34:00",21,0,0,0,2194
+"36",2019102002,2316,"(:07) J.Lambo 29 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",0,1,43068,"00:07:00",29,7,3,4,1807
+"37",2019102002,4431,"(2:00) J.Lambo 26 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",4,"JAX",0,1,43068,"02:00:00",26,10,24,-14,120
+"38",2019102705,1631,"(3:00) J.Lambo 29 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",1,1,43068,"03:00:00",29,13,7,6,1980
+"39",2019102705,2056,"(:16) J.Lambo 43 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",1,1,43068,"00:16:00",43,16,7,9,1816
+"40",2019102705,2800,"(2:15) J.Lambo 24 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",3,"JAX",1,1,43068,"02:15:00",24,19,7,12,1035
+"41",2019110300,1603,"(1:52) (Field Goal formation) J.Lambo 30 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",1,1,43068,"01:52:00",30,0,9,-9,1912
+"42",2019111703,3100,"(14:57) J.Lambo 46 yard field goal is No Good, Wide Right, Center-M.Orzech, Holder-L.Cooke.",4,"JAX",0,0,43068,"14:57:00",46,24,7,17,897
+"43",2019112408,1481,"(1:55) (Field Goal formation) J.Lambo 49 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",0,1,43068,"01:55:00",49,7,0,7,1915
+"44",2019112408,3680,"(4:53) (Field Goal formation) J.Lambo 50 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",4,"JAX",0,1,43068,"04:53:00",50,42,17,25,293
+"45",2019120104,2924,"(5:51) J.Lambo 53 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",3,"JAX",1,1,43068,"05:51:00",53,0,25,-25,1251
+"46",2019121510,378,"(8:12) J.Lambo 28 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",1,"JAX",0,1,43068,"08:12:00",28,7,0,7,3192
+"47",2019121510,2623,"(:32) J.Lambo 43 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",3,"JAX",0,1,43068,"00:32:00",43,16,3,13,932
+"48",2019122205,1330,"(9:17) J.Lambo 40 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",0,1,43068,"09:17:00",40,14,0,14,2357
+"49",2019122205,2938,"(2:32) J.Lambo 27 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",3,"JAX",0,1,43068,"02:32:00",27,17,3,14,1052
+"50",2019122907,509,"(6:22) J.Lambo 20 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",1,"JAX",1,1,43068,"06:22:00",20,0,3,-3,3082
+"51",2019122907,1120,"(12:05) J.Lambo 53 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",1,1,43068,"12:05:00",53,3,10,-7,2525
+"52",2019122907,2072,"(:02) J.Lambo 56 yard field goal is GOOD, Center-M.Orzech, Holder-L.Cooke.",2,"JAX",1,1,43068,"00:02:00",56,13,20,-7,1802
+"53",2020091305,2709,"(3:36) J.Lambo 50 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",3,"JAX",1,1,43068,"03:36:00",50,14,17,-3,1116
+"54",2020091305,3735,"(2:54) J.Lambo 46 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",4,"JAX",1,1,43068,"02:54:00",46,24,20,4,174
+"55",2020092009,2061,"(:15) J.Lambo 35 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",2,"JAX",0,1,43068,"00:15:00",35,21,7,14,1815
+"56",2020110803,2073,"(:03) J.Lambo 59 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",2,"JAX",1,1,43068,"00:03:00",59,13,20,-7,1803
+"57",2020110803,2811,"(1:14) J.Lambo 30 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",3,"JAX",1,1,43068,"01:14:00",30,16,27,-11,974

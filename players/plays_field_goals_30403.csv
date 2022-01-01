@@ -1,0 +1,80 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018091610,473,"(6:22) R.Gould 45 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",1,"SF",1,1,30403,"06:22:00",45,0,0,0,3082
+"2",2018091610,1610,"(5:00) R.Gould 42 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",2,"SF",1,1,30403,"05:00:00",42,10,7,3,2100
+"3",2018091610,3534,"(11:25) R.Gould 36 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",4,"SF",1,1,30403,"11:25:00",36,27,13,14,685
+"4",2018092305,2533,"(:04) R.Gould 39 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",2,"SF",0,1,30403,"00:04:00",39,35,7,28,1804
+"5",2018092305,4231,"(5:21) R.Gould 35 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",4,"SF",0,1,30403,"05:21:00",35,38,24,14,321
+"6",2018093010,1529,"(5:02) R.Gould 21 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",2,"SF",0,1,30403,"05:02:00",21,6,14,-8,2102
+"7",2018093010,3385,"(12:43) R.Gould 33 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",4,"SF",0,1,30403,"12:43:00",33,26,24,2,763
+"8",2018100710,3136,"(14:57) R.Gould 45 yard field goal is No Good, Wide Right, Center-K.Nelson, Holder-B.Pinion.",4,"SF",1,0,30403,"14:57:00",45,6,14,-8,897
+"9",2018101500,2087,"(:04) R.Gould 46 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",2,"SF",0,1,30403,"00:04:00",46,20,21,-1,1804
+"10",2018101500,2489,"(7:04) R.Gould 44 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",3,"SF",0,1,30403,"07:04:00",44,23,24,-1,1324
+"11",2018101500,2891,"(13:12) R.Gould 43 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",4,"SF",0,1,30403,"13:12:00",43,23,27,-4,792
+"12",2018102111,2888,"(2:42) R.Gould 51 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",3,"SF",1,1,30403,"02:42:00",51,7,32,-25,1062
+"13",2018102809,1593,"(4:36) R.Gould 27 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",2,"SF",0,1,30403,"04:36:00",27,3,2,1,2076
+"14",2018102809,2978,"(13:37) R.Gould 20 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",4,"SF",0,1,30403,"13:37:00",20,3,12,-9,817
+"15",2018110100,1910,"(:21) R.Gould 39 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",2,"SF",1,1,30403,"00:21:00",39,14,3,11,1821
+"16",2018110100,3470,"(4:03) R.Gould 25 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",4,"SF",1,1,30403,"04:03:00",25,31,3,28,243
+"17",2018111200,300,"(10:18) R.Gould 53 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",1,"SF",1,1,30403,"10:18:00",53,0,0,0,3318
+"18",2018111200,2093,"(:07) R.Gould 36 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",2,"SF",1,1,30403,"00:07:00",36,10,10,0,1807
+"19",2018111200,3685,"(2:50) R.Gould 30 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",4,"SF",1,1,30403,"02:50:00",30,20,20,0,170
+"20",2018112507,2643,"(11:05) R.Gould 23 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",3,"SF",0,1,30403,"11:05:00",23,13,6,7,1565
+"21",2018120213,2195,"(:05) R.Gould 45 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",2,"SF",0,1,30403,"00:05:00",45,20,0,20,1805
+"22",2018120910,288,"(10:28) R.Gould 40 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",1,"SF",1,1,30403,"10:28:00",40,0,0,0,3328
+"23",2018120910,1088,"(13:04) R.Gould 29 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",2,"SF",1,1,30403,"13:04:00",29,3,0,3,2584
+"24",2018121609,1923,"(1:10) R.Gould 28 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",2,"SF",1,1,30403,"01:10:00",28,14,13,1,1870
+"25",2018121609,2901,"(2:59) R.Gould 33 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",3,"SF",1,1,30403,"02:59:00",33,17,13,4,1079
+"26",2018121609,3490,"(9:56) R.Gould 45 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",4,"SF",1,1,30403,"09:56:00",45,20,20,0,596
+"27",2018121609,4837,"(3:11) R.Gould 36 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",5,"SF",1,1,30403,"03:11:00",36,23,23,0,-191
+"28",2018122312,1141,"(10:58) R.Gould 33 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",2,"SF",1,1,30403,"10:58:00",33,0,0,0,2458
+"29",2018122312,1476,"(5:52) R.Gould 30 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",2,"SF",1,1,30403,"05:52:00",30,3,0,3,2152
+"30",2018122312,2005,"(:05) R.Gould 23 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",2,"SF",1,1,30403,"00:05:00",23,6,7,-1,1805
+"31",2018123014,1033,"(2:16) R.Gould 30 yard field goal is GOOD, Center-C.Holba, Holder-B.Pinion.",1,"SF",0,1,30403,"02:16:00",30,14,0,14,2836
+"32",2019090811,309,"(11:12) R.Gould 29 yard field goal is GOOD, Center-C.Holba, Holder-M.Wishnowsky.",1,"SF",0,1,30403,"11:12:00",29,0,0,0,3372
+"33",2019090811,1802,"(2:59) R.Gould 36 yard field goal is GOOD, Center-C.Holba, Holder-M.Wishnowsky.",2,"SF",0,1,30403,"02:59:00",36,7,3,4,1979
+"34",2019090811,2926,"(2:42) R.Gould 57 yard field goal is No Good, Hit Crossbar, Center-C.Holba, Holder-M.Wishnowsky.",3,"SF",0,0,30403,"02:42:00",57,14,20,-6,1062
+"35",2019090811,3811,"(2:21) R.Gould 47 yard field goal is GOOD, Center-C.Holba, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"02:21:00",47,17,20,-3,141
+"36",2019091501,2430,"(:06) R.Gould 33 yard field goal is GOOD, Center-C.Holba, Holder-M.Wishnowsky.",2,"SF",0,1,30403,"00:06:00",33,10,21,-11,1806
+"37",2019091501,3090,"(4:39) R.Gould 38 yard field goal is GOOD, Center-C.Holba, Holder-M.Wishnowsky.",3,"SF",0,1,30403,"04:39:00",38,10,31,-21,1179
+"38",2019091501,3748,"(7:08) R.Gould 39 yard field goal is No Good, Wide Right, Center-C.Holba, Holder-M.Wishnowsky.",4,"SF",0,0,30403,"07:08:00",39,10,41,-31,428
+"39",2019092212,1596,"(6:48) R.Gould 24 yard field goal is GOOD, Center-J.Condo, Holder-M.Wishnowsky.",2,"SF",1,1,30403,"06:48:00",24,0,6,-6,2208
+"40",2019100700,1017,"(1:14) R.Gould 47 yard field goal is No Good, Wide Right, Center-G.Sanborn, Holder-M.Wishnowsky.",1,"SF",1,0,30403,"01:14:00",47,14,0,14,2774
+"41",2019100700,2089,"(:15) R.Gould 52 yard field goal is No Good, Short, Center-G.Sanborn, Holder-M.Wishnowsky.",2,"SF",1,0,30403,"00:15:00",52,21,3,18,1815
+"42",2019100700,3024,"(1:44) R.Gould 32 yard field goal is BLOCKED (T.Thomas), Center-G.Sanborn, Holder-M.Wishnowsky, RECOVERED by CLE-T.Mitchell at CLE 18. T.Mitchell to CLE 45 for 27 yards (D.Buckner).",3,"SF",1,0,30403,"01:44:00",NA,28,3,25,1004
+"43",2019100700,3783,"(5:13) R.Gould 44 yard field goal is GOOD, Center-G.Sanborn, Holder-M.Wishnowsky.",4,"SF",1,1,30403,"05:13:00",44,28,3,25,313
+"44",2019101308,1953,"(:03) R.Gould 55 yard field goal is No Good, Center-G.Sanborn, Holder-M.Wishnowsky. J.Natson at LA -8 pushed ob at LA 33 for 41 yards (M.Wishnowsky).",2,"SF",0,0,30403,"00:03:00",55,7,7,0,1803
+"45",2019101308,2741,"(5:02) R.Gould 25 yard field goal is GOOD, Center-G.Sanborn, Holder-M.Wishnowsky.",3,"SF",0,1,30403,"05:02:00",25,7,14,-7,1202
+"46",2019101308,3134,"(12:08) R.Gould 34 yard field goal is GOOD, Center-G.Sanborn, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"12:08:00",34,7,17,-10,728
+"47",2019102007,997,"(11:00) R.Gould 45 yard field goal is No Good, Wide Left, Center-G.Sanborn, Holder-M.Wishnowsky.",2,"SF",0,0,30403,"11:00:00",45,0,0,0,2460
+"48",2019102007,2842,"(9:06) R.Gould 22 yard field goal is GOOD, Center-G.Sanborn, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"09:06:00",22,0,3,-3,546
+"49",2019102007,3262,"(:27) R.Gould 29 yard field goal is GOOD, Center-G.Sanborn, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"00:27:00",29,0,6,-6,27
+"50",2019102709,3433,"(12:56) R.Gould 20 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky. Penalty on CAR-D.Jackson, Defensive Offside, declined.",4,"SF",1,1,30403,"12:56:00",20,41,13,28,776
+"51",2019120100,1950,"(:04) (Field Goal formation) R.Gould 51 yard field goal is BLOCKED (M.Humphrey), Center-K.Nelson, Holder-M.Wishnowsky.",2,"SF",0,0,30403,"00:04:00",NA,17,14,3,1804
+"52",2019120100,2492,"(3:41) (Field Goal formation) R.Gould 32 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",3,"SF",0,1,30403,"03:41:00",32,17,14,3,1121
+"53",2019120806,4216,"(2:28) R.Gould 41 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"02:28:00",41,40,42,-2,148
+"54",2019120806,4755,"(:02) R.Gould 30 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"00:02:00",30,46,45,1,2
+"55",2019121512,2040,"(:27) R.Gould 22 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",2,"SF",1,1,30403,"00:27:00",22,7,10,-3,1827
+"56",2019121512,3956,"(1:52) R.Gould 43 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",4,"SF",1,1,30403,"01:52:00",43,19,17,2,112
+"57",2019122102,402,"(8:39) R.Gould 26 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",1,"SF",1,1,30403,"08:39:00",26,0,7,-7,3219
+"58",2019122102,4242,"(:03) R.Gould 33 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",4,"SF",1,1,30403,"00:03:00",33,31,31,0,3
+"59",2019122915,421,"(7:41) R.Gould 47 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",1,"SF",0,1,30403,"07:41:00",47,0,0,0,3161
+"60",2019122915,1410,"(5:49) R.Gould 30 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",2,"SF",0,1,30403,"05:49:00",30,0,10,-10,2149
+"61",2020091311,197,"(11:56) R.Gould 52 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",1,"SF",1,1,30403,"11:56:00",52,0,0,0,3416
+"62",2020091311,2079,"(:33) R.Gould 24 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",2,"SF",1,1,30403,"00:33:00",24,10,7,3,1833
+"63",2020092005,2174,"(8:53) R.Gould 46 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",3,"SF",0,1,30403,"08:53:00",46,3,21,-18,1433
+"64",2020092705,256,"(9:48) R.Gould 52 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky. NYG-J.Peppers was injured during the play.",1,"SF",0,1,30403,"09:48:00",52,0,0,0,3288
+"65",2020092705,1177,"(9:07) R.Gould 55 yard field goal is No Good, Wide Right, Center-K.Nelson, Holder-M.Wishnowsky.",2,"SF",0,0,30403,"09:07:00",55,3,6,-3,2347
+"66",2020092705,2026,"(:06) R.Gould 26 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",2,"SF",0,1,30403,"00:06:00",26,6,13,-7,1806
+"67",2020101109,3256,"(:51) R.Gould 37 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",3,"SF",1,1,30403,"00:51:00",37,14,37,-23,951
+"68",2020102510,1147,"(9:05) R.Gould 41 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",2,"SF",0,1,30403,"09:05:00",41,3,7,-4,2345
+"69",2020102510,2767,"(13:31) R.Gould 32 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"13:31:00",32,6,30,-24,811
+"70",2020110500,866,"(:50) R.Gould 22 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",1,"SF",1,1,30403,"00:50:00",22,0,7,-7,2750
+"71",2020111510,858,"(15:00) R.Gould 32 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",2,"SF",0,1,30403,"15:00:00",32,0,7,-7,2700
+"72",2020111510,3800,"(5:59) R.Gould 40 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"05:59:00",40,27,10,17,359
+"73",2020112909,2031,"(:07) R.Gould 50 yard field goal is No Good, Wide Right, Center-T.Pepper, Holder-M.Wishnowsky.",2,"SF",0,0,30403,"00:07:00",50,3,7,-4,1807
+"74",2020112909,2805,"(4:35) R.Gould 46 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",3,"SF",0,1,30403,"04:35:00",46,3,14,-11,1175
+"75",2020112909,3790,"(3:15) R.Gould 44 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"03:15:00",44,20,17,3,195
+"76",2020112909,4375,"(:04) R.Gould 42 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4,"SF",0,1,30403,"00:04:00",42,20,20,0,4
+"77",2020122013,2616,"(10:52) R.Gould 41 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",3,"SF",0,1,30403,"10:52:00",41,17,14,3,1552
+"78",2020122601,2461,"(11:12) R.Gould 41 yard field goal is No Good, Wide Right, Center-T.Pepper, Holder-M.Wishnowsky.",3,"SF",0,0,30403,"11:12:00",41,6,7,-1,1572
+"79",2020122601,4213,"(1:09) R.Gould 37 yard field goal is No Good, Wide Left, Center-T.Pepper, Holder-M.Wishnowsky.",4,"SF",0,0,30403,"01:09:00",37,12,20,-8,69

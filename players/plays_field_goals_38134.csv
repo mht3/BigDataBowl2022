@@ -1,0 +1,73 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018092700,1089,"(10:10) D.Bailey 37 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile. Ball deflected off the right Upright.",2,"MIN",0,1,38134,"10:10:00",37,7,7,0,2410
+"2",2018092700,2363,"(:06) D.Bailey 39 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",2,"MIN",0,1,38134,"00:06:00",39,28,17,11,1806
+"3",2018092700,3925,"(3:50) D.Bailey 40 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",4,"MIN",0,1,38134,"03:50:00",40,38,28,10,230
+"4",2018100709,298,"(8:43) D.Bailey 28 yard field goal is No Good, Hit Left Upright, Center-K.McDermott, Holder-M.Wile.",1,"MIN",0,0,38134,"08:43:00",28,0,0,0,3223
+"5",2018100709,505,"(5:06) D.Bailey 37 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",1,"MIN",0,1,38134,"05:06:00",37,0,0,0,3006
+"6",2018100709,1171,"(6:57) D.Bailey 45 yard field goal is No Good, Wide Right, Center-K.McDermott, Holder-M.Wile.",2,"MIN",0,0,38134,"06:57:00",45,3,3,0,2217
+"7",2018100709,2336,"(7:35) D.Bailey 22 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",3,"MIN",0,1,38134,"07:35:00",22,3,17,-14,1355
+"8",2018100709,3586,"(2:51) D.Bailey 52 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",4,"MIN",0,1,38134,"02:51:00",52,14,20,-6,171
+"9",2018101405,858,"(2:08) D.Bailey 37 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",1,"MIN",1,1,38134,"02:08:00",37,7,3,4,2828
+"10",2018101405,2068,"(:12) D.Bailey 48 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",2,"MIN",1,1,38134,"00:12:00",48,10,10,0,1812
+"11",2018102107,1386,"(10:16) D.Bailey 26 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",2,"MIN",0,1,38134,"10:16:00",26,7,7,0,2416
+"12",2018102107,2209,"(:47) D.Bailey 42 yard field goal is No Good, Wide Left, Center-K.McDermott, Holder-M.Wile.",2,"MIN",0,0,38134,"00:47:00",42,7,10,-3,1847
+"13",2018102107,2828,"(5:52) D.Bailey 22 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",3,"MIN",0,1,38134,"05:52:00",22,7,17,-10,1252
+"14",2018102107,4206,"(3:26) D.Bailey 43 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",4,"MIN",0,1,38134,"03:26:00",43,17,34,-17,206
+"15",2018110405,1819,"(:08) D.Bailey 39 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",2,"MIN",1,1,38134,"00:08:00",39,14,6,8,1808
+"16",2018111802,2944,"(:11) D.Bailey 36 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",3,"MIN",0,1,38134,"00:11:00",36,14,0,14,911
+"17",2018111802,3222,"(11:51) D.Bailey 36 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",4,"MIN",0,1,38134,"11:51:00",36,14,3,11,711
+"18",2018112510,1499,"(4:40) D.Bailey 48 yard field goal is No Good, Wide Left, Center-K.McDermott, Holder-M.Wile.",2,"MIN",1,0,38134,"04:40:00",48,14,14,0,2080
+"19",2018112510,2116,"(:03) D.Bailey 56 yard field goal is No Good, Wide Right, Center-K.McDermott, Holder-M.Wile.",2,"MIN",1,0,38134,"00:03:00",56,14,14,0,1803
+"20",2018112510,2736,"(3:31) D.Bailey 37 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",3,"MIN",1,1,38134,"03:31:00",37,14,14,0,1111
+"21",2018120212,558,"(5:31) D.Bailey 48 yard field goal is No Good, Wide Left, Center-K.McDermott, Holder-M.Wile.",1,"MIN",0,0,38134,"05:31:00",48,7,0,7,3031
+"22",2018120212,2865,"(2:24) D.Bailey 39 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",3,"MIN",0,1,38134,"02:24:00",39,10,7,3,1044
+"23",2018121000,3312,"(5:46) D.Bailey 47 yard field goal is BLOCKED (B.Wagner), Center-K.McDermott, Holder-M.Wile.",4,"MIN",0,0,38134,"05:46:00",NA,6,0,6,346
+"24",2018121607,2445,"(8:44) D.Bailey 36 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",3,"MIN",1,1,38134,"08:44:00",36,21,17,4,1424
+"25",2018121607,3141,"(13:05) D.Bailey 34 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",4,"MIN",1,1,38134,"13:05:00",34,24,17,7,785
+"26",2018122307,2694,"(8:57) D.Bailey 24 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",3,"MIN",0,1,38134,"08:57:00",24,9,14,-5,1437
+"27",2018122307,3978,"(4:19) D.Bailey 29 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",4,"MIN",0,1,38134,"04:19:00",29,9,24,-15,259
+"28",2018123005,2028,"(:58) D.Bailey 45 yard field goal is GOOD, Center-K.McDermott, Holder-M.Wile.",2,"MIN",1,1,38134,"00:58:00",45,0,13,-13,1858
+"29",2019091503,351,"(9:21) D.Bailey 47 yard field goal is No Good, Wide Left, Center-A.Cutting, Holder-B.Colquitt.",1,"MIN",0,0,38134,"09:21:00",47,7,0,7,3261
+"30",2019091503,2063,"(:55) D.Bailey 31 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",0,1,38134,"00:55:00",31,21,7,14,1855
+"31",2019092205,2790,"(15:00) D.Bailey 50 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",4,"MIN",1,1,38134,"15:00:00",50,28,7,21,900
+"32",2019092205,3335,"(3:49) D.Bailey 24 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",4,"MIN",1,1,38134,"03:49:00",24,31,7,24,229
+"33",2019100604,295,"(8:50) D.Bailey 31 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",1,"MIN",0,1,38134,"08:50:00",31,0,0,0,3230
+"34",2019100604,1325,"(7:56) D.Bailey 48 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",0,1,38134,"07:56:00",48,7,10,-3,2276
+"35",2019100604,2054,"(:50) D.Bailey 32 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",0,1,38134,"00:50:00",32,7,15,-8,1850
+"36",2019100604,3946,"(4:13) D.Bailey 45 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",4,"MIN",0,1,38134,"04:13:00",45,10,25,-15,253
+"37",2019101306,770,"(1:57) D.Bailey 39 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",1,"MIN",1,1,38134,"01:57:00",39,7,0,7,2817
+"38",2019102003,3625,"(12:56) D.Bailey 45 yard field goal is No Good, Wide Left, Center-A.Cutting, Holder-B.Colquitt.",4,"MIN",0,0,38134,"12:56:00",45,24,28,-4,776
+"39",2019102400,510,"(5:25) D.Bailey 50 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",1,"MIN",1,1,38134,"05:25:00",50,0,0,0,3025
+"40",2019102400,1138,"(7:29) D.Bailey 29 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",1,1,38134,"07:29:00",29,3,3,0,2249
+"41",2019102400,2119,"(8:37) D.Bailey 27 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",3,"MIN",1,1,38134,"08:37:00",27,13,6,7,1417
+"42",2019102400,2820,"(10:40) D.Bailey 40 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",4,"MIN",1,1,38134,"10:40:00",40,16,9,7,640
+"43",2019110303,2286,"(:09) D.Bailey 29 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",0,1,38134,"00:09:00",29,10,7,3,1809
+"44",2019120200,1834,"(:01) D.Bailey 47 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",0,1,38134,"00:01:00",47,10,14,-4,1801
+"45",2019120805,1585,"(4:45) D.Bailey 27 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",1,1,38134,"04:45:00",27,7,0,7,2085
+"46",2019120805,3323,"(15:00) D.Bailey 50 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",4,"MIN",1,1,38134,"15:00:00",50,17,0,17,900
+"47",2019121513,898,"(15:00) D.Bailey 26 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",0,1,38134,"15:00:00",26,3,6,-3,2700
+"48",2019121513,1539,"(4:22) D.Bailey 44 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",0,1,38134,"04:22:00",44,10,9,1,2062
+"49",2019121513,2238,"(12:41) D.Bailey 38 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",3,"MIN",0,1,38134,"12:41:00",38,10,19,-9,1661
+"50",2019121513,2515,"(7:10) D.Bailey 27 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",3,"MIN",0,1,38134,"07:10:00",27,10,22,-12,1330
+"51",2019122300,216,"(13:14) D.Bailey 23 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",1,"MIN",1,1,38134,"13:14:00",23,0,0,0,3494
+"52",2019122909,995,"(9:21) D.Bailey 37 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",1,1,38134,"09:21:00",37,0,6,-6,2361
+"53",2019122909,1688,"(:02) D.Bailey 38 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",1,1,38134,"00:02:00",38,3,11,-8,1802
+"54",2019122909,2913,"(8:59) D.Bailey 39 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",4,"MIN",1,1,38134,"08:59:00",39,13,18,-5,539
+"55",2019122909,3174,"(4:57) D.Bailey 34 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",4,"MIN",1,1,38134,"04:57:00",34,16,18,-2,297
+"56",2020091306,1987,"(:02) D.Bailey 35 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",1,1,38134,"00:02:00",35,7,22,-15,1802
+"57",2020092003,395,"(9:05) D.Bailey 21 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",1,"MIN",0,1,38134,"09:05:00",21,0,0,0,3245
+"58",2020092703,1807,"(1:45) D.Bailey 41 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",1,1,38134,"01:45:00",41,14,9,5,1905
+"59",2020092703,2426,"(10:19) D.Bailey 49 yard field goal is No Good, Wide Right, Center-A.Cutting, Holder-B.Colquitt.",3,"MIN",1,0,38134,"10:19:00",49,17,9,8,1519
+"60",2020100405,1064,"(12:45) D.Bailey 31 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",2,"MIN",0,1,38134,"12:45:00",31,0,7,-7,2565
+"61",2020100405,2402,"(7:29) D.Bailey 55 yard field goal is No Good, Wide Right, Center-A.Cutting, Holder-B.Colquitt.",3,"MIN",0,0,38134,"07:29:00",55,13,17,-4,1349
+"62",2020111600,2147,"(10:54) D.Bailey 37 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",3,"MIN",0,1,38134,"10:54:00",37,13,7,6,1554
+"63",2020111600,2751,"(1:57) D.Bailey 43 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",3,"MIN",0,1,38134,"01:57:00",43,13,10,3,1017
+"64",2020112905,1983,"(:05) D.Bailey 53 yard field goal is GOOD, Center-A.DePaola, Holder-B.Colquitt.",2,"MIN",1,1,38134,"00:05:00",53,7,7,0,1805
+"65",2020112905,3082,"(14:49) D.Bailey 25 yard field goal is GOOD, Center-A.DePaola, Holder-B.Colquitt.",4,"MIN",1,1,38134,"14:49:00",25,10,21,-11,889
+"66",2020120604,3900,"(3:55) D.Bailey 48 yard field goal is GOOD, Center-A.DePaola, Holder-B.Colquitt.",4,"MIN",1,1,38134,"03:55:00",48,21,16,5,235
+"67",2020120604,5174,"(1:53) D.Bailey 23 yard field goal is GOOD, Center-A.DePaola, Holder-B.Colquitt.",5,"MIN",1,1,38134,"01:53:00",23,24,24,0,-113
+"68",2020121307,1057,"(9:35) D.Bailey 36 yard field goal is No Good, Wide Right, Center-A.DePaola, Holder-B.Colquitt.",2,"MIN",0,0,38134,"09:35:00",36,0,6,-6,2375
+"69",2020121307,3143,"(9:04) D.Bailey 46 yard field goal is No Good, Wide Right, Center-A.DePaola, Holder-B.Colquitt.",4,"MIN",0,0,38134,"09:04:00",46,23,14,9,544
+"70",2020122008,2036,"(:30) D.Bailey 24 yard field goal is GOOD, Center-A.DePaola, Holder-B.Colquitt.",2,"MIN",1,1,38134,"00:30:00",24,7,20,-13,1830
+"71",2020122008,2806,"(2:41) D.Bailey 22 yard field goal is GOOD, Center-A.DePaola, Holder-B.Colquitt.",3,"MIN",1,1,38134,"02:41:00",22,17,27,-10,1061
+"72",2021010305,2723,"(7:59) D.Bailey 23 yard field goal is GOOD, Center-A.DePaola, Holder-B.Colquitt.",3,"MIN",0,1,38134,"07:59:00",23,23,28,-5,1379

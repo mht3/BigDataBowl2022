@@ -1,0 +1,19 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018121606,1566,"(3:26) K.Forbath 33 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",2,"JAX",1,1,38220,"03:26:00",33,0,3,-3,2006
+"2",2018121606,3124,"(11:21) K.Forbath 41 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",4,"JAX",1,1,38220,"11:21:00",41,10,6,4,681
+"3",2018122302,1858,"(:04) (Field Goal formation) K.Forbath 56 yard field goal is No Good, Short, Center-M.Overton, Holder-L.Cooke.",2,"JAX",0,0,38220,"00:04:00",56,7,7,0,1804
+"4",2018122302,3159,"(10:59) (Field Goal formation) K.Forbath 26 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",4,"JAX",0,1,38220,"10:59:00",26,7,7,0,659
+"5",2018123003,370,"(10:11) K.Forbath 25 yard field goal is GOOD, Center-M.Overton, Holder-L.Cooke.",1,"JAX",0,1,38220,"10:11:00",25,0,0,0,3311
+"6",2019120111,448,"(7:07) K.Forbath 23 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",1,"NE",0,1,38220,"07:07:00",23,0,0,0,3127
+"7",2019121511,2353,"(11:14) (Field Goal formation) K.Forbath 50 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",3,"DAL",1,1,38220,"11:14:00",50,28,7,21,1574
+"8",2019121511,3102,"(15:00) (Field Goal formation) K.Forbath 42 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",4,"DAL",1,1,38220,"15:00:00",42,31,7,24,900
+"9",2019121511,3431,"(6:44) (Field Goal formation) K.Forbath 42 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",4,"DAL",1,1,38220,"06:44:00",42,34,7,27,404
+"10",2019122212,1029,"(13:00) K.Forbath 49 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",2,"DAL",0,1,38220,"13:00:00",49,10,0,10,2580
+"11",2019122212,2054,"(:06) K.Forbath 32 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",2,"DAL",0,1,38220,"00:06:00",32,10,3,7,1806
+"12",2019122904,493,"(7:44) (Field Goal formation) K.Forbath 28 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",1,"DAL",1,1,38220,"07:44:00",28,0,0,0,3164
+"13",2019122904,677,"(5:18) (Field Goal formation) K.Forbath 47 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",1,"DAL",1,1,38220,"05:18:00",47,3,0,3,3018
+"14",2019122904,3179,"(4:11) (Field Goal formation) K.Forbath 48 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",3,"DAL",1,1,38220,"04:11:00",48,27,16,11,1151
+"15",2019122904,4177,"(2:44) (Field Goal formation) K.Forbath 40 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",4,"DAL",1,1,38220,"02:44:00",40,44,16,28,164
+"16",2020110106,2465,"(:15) K.Forbath 23 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,"LA",0,1,38220,"00:15:00",23,28,7,21,1815
+"17",2020110106,4288,"(3:42) K.Forbath 48 yard field goal is No Good, Wide Left, Center-J.McQuaide, Holder-J.Hekker.",4,"LA",0,0,38220,"03:42:00",48,28,17,11,222
+"18",2020111509,262,"(9:41) K.Forbath 23 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,"LA",1,1,38220,"09:41:00",23,0,0,0,3281

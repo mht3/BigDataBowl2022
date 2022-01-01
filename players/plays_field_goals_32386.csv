@@ -1,0 +1,72 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018091602,1861,"(:02) M.Crosby 37 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"00:02:00",37,14,7,7,1802
+"2",2018091602,2311,"(6:36) M.Crosby 40 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",1,1,32386,"06:36:00",40,17,7,10,1296
+"3",2018091602,3066,"(7:38) M.Crosby 31 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"07:38:00",31,20,14,6,458
+"4",2018091602,3483,"(2:17) M.Crosby 48 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"02:17:00",48,23,21,2,137
+"5",2018091602,3648,"(1:49) M.Crosby 36 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott. Penalty on MIN-J.Johnson, Illegal Formation, declined.",4,"GB",1,1,32386,"01:49:00",36,26,21,5,109
+"6",2018091602,4088,"(:03) M.Crosby 52 yard field goal is No Good, Wide Left, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,0,32386,"00:03:00",52,29,29,0,3
+"7",2018092309,1145,"(12:56) M.Crosby 41 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"12:56:00",41,14,0,14,2576
+"8",2018093003,2000,"(:03) M.Crosby 52 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"00:03:00",52,13,0,13,1803
+"9",2018093003,2256,"(11:17) M.Crosby 36 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",1,1,32386,"11:17:00",36,16,0,16,1577
+"10",2018093003,3781,"(2:00) M.Crosby 52 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"02:00:00",52,19,0,19,120
+"11",2018100704,834,"(3:26) M.Crosby 41 yard field goal is No Good, Wide Left, Center-H.Bradley, Holder-J.Scott.",1,"GB",0,0,32386,"03:26:00",41,7,0,7,2906
+"12",2018100704,1404,"(11:22) M.Crosby 42 yard field goal is No Good, Hit Right Upright, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,0,32386,"11:22:00",42,17,0,17,2482
+"13",2018100704,1791,"(3:38) M.Crosby 38 yard field goal is No Good, Wide Right, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,0,32386,"03:38:00",38,17,0,17,2018
+"14",2018100704,4187,"(3:40) M.Crosby 56 yard field goal is No Good, Wide Right, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,0,32386,"03:40:00",56,31,20,11,220
+"15",2018100704,4625,"(:07) M.Crosby 41 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"00:07:00",41,31,20,11,7
+"16",2018101500,524,"(7:42) M.Crosby 29 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",1,"GB",1,1,32386,"07:42:00",29,7,7,0,3162
+"17",2018101500,1518,"(7:38) M.Crosby 39 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"07:38:00",39,17,14,3,2258
+"18",2018101500,2277,"(11:21) M.Crosby 51 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",1,1,32386,"11:21:00",51,20,24,-4,1581
+"19",2018101500,3987,"(:03) M.Crosby 27 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"00:03:00",27,30,30,0,3
+"20",2018102810,895,"(14:23) M.Crosby 41 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"14:23:00",41,0,7,-7,2663
+"21",2018102810,2458,"(9:43) M.Crosby 53 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",0,1,32386,"09:43:00",53,8,10,-2,1483
+"22",2018110410,748,"(5:08) M.Crosby 29 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",1,"GB",0,1,32386,"05:08:00",29,7,0,7,3008
+"23",2018111103,3407,"(8:57) M.Crosby 38 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"08:57:00",38,28,12,16,537
+"24",2018111500,391,"(10:51) M.Crosby 47 yard field goal is No Good, Wide Left, Center-H.Bradley, Holder-J.Scott.",1,"GB",0,0,32386,"10:51:00",47,0,7,-7,3351
+"25",2018111500,3482,"(8:27) M.Crosby 36 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"08:27:00",36,20,21,-1,507
+"26",2018112510,3777,"(2:25) M.Crosby 38 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"02:25:00",38,24,14,10,145
+"27",2018120203,1977,"(:18) M.Crosby 32 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"00:18:00",32,7,7,0,1818
+"28",2018120903,1418,"(7:45) M.Crosby 50 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"07:45:00",50,7,7,0,2265
+"29",2018120903,2161,"(:04) M.Crosby 48 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"00:04:00",48,17,7,10,1804
+"30",2018121603,1315,"(7:31) M.Crosby 41 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"07:31:00",41,7,0,7,2251
+"31",2018121603,2423,"(9:30) M.Crosby 43 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",0,1,32386,"09:30:00",43,14,3,11,1470
+"32",2018121603,4489,"(:15) (Field Goal formation) M.Crosby 45 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"00:15:00",45,24,14,10,15
+"33",2018122309,2257,"(:06) M.Crosby 42 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"00:06:00",42,21,14,7,1806
+"34",2018122309,2628,"(8:20) M.Crosby 29 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",0,1,32386,"08:20:00",29,21,17,4,1400
+"35",2018122309,3483,"(11:49) M.Crosby 38 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"11:49:00",38,35,20,15,709
+"36",2019090500,3929,"(5:20) (Field Goal formation) M.Crosby 39 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"05:20:00",39,3,7,-4,320
+"37",2019092202,1161,"(11:23) M.Crosby 42 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"11:23:00",42,7,7,0,2483
+"38",2019092202,3813,"(1:09) M.Crosby 45 yard field goal is No Good, Wide Right, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,0,32386,"01:09:00",45,27,16,11,69
+"39",2019092600,944,"(14:04) M.Crosby 30 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"14:04:00",30,7,0,7,2644
+"40",2019092600,1354,"(8:28) M.Crosby 31 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"08:28:00",31,10,7,3,2308
+"41",2019100611,1740,"(2:23) (Field Goal formation) M.Crosby 20 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"02:23:00",20,0,14,-14,1943
+"42",2019100611,4066,"(8:11) (Field Goal formation) M.Crosby 38 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"08:11:00",38,17,31,-14,491
+"43",2019101400,1998,"(:11) M.Crosby 37 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"00:11:00",37,7,13,-6,1811
+"44",2019101400,4146,"(:02) M.Crosby 23 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"00:02:00",23,20,22,-2,2
+"45",2019102712,2887,"(1:35) M.Crosby 35 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",0,1,32386,"01:35:00",35,17,14,3,995
+"46",2019110310,2626,"(:50) M.Crosby 54 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",0,1,32386,"00:50:00",54,19,0,19,950
+"47",2019111003,2890,"(1:26) M.Crosby 47 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",1,1,32386,"01:26:00",47,21,10,11,986
+"48",2019120107,1174,"(12:07) M.Crosby 47 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"12:07:00",47,7,14,-7,2527
+"49",2019120803,2202,"(10:11) M.Crosby 32 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",1,1,32386,"10:11:00",32,14,6,8,1511
+"50",2019120803,3504,"(2:38) M.Crosby 33 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"02:38:00",33,17,9,8,158
+"51",2019122300,800,"(2:05) M.Crosby 42 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",1,"GB",0,1,32386,"02:05:00",42,3,0,3,2825
+"52",2019122300,1481,"(7:04) M.Crosby 33 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"07:04:00",33,10,3,7,2224
+"53",2019122300,2230,"(:03) M.Crosby 19 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"00:03:00",19,10,6,4,1803
+"54",2019122905,2067,"(:24) M.Crosby 32 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"00:24:00",32,14,0,14,1824
+"55",2019122905,2474,"(11:09) M.Crosby 51 yard field goal is No Good, Wide Left, Center-H.Bradley, Holder-J.Scott.",3,"GB",0,0,32386,"11:09:00",51,17,3,14,1569
+"56",2019122905,4718,"(:03) M.Crosby 33 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"00:03:00",33,20,20,0,3
+"57",2020091306,369,"(7:31) M.Crosby 31 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",1,"GB",0,1,32386,"07:31:00",31,0,0,0,3151
+"58",2020091306,1236,"(8:12) M.Crosby 43 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"08:12:00",43,7,5,2,2292
+"59",2020092002,585,"(5:46) M.Crosby 43 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",1,"GB",1,1,32386,"05:46:00",43,0,7,-7,3046
+"60",2020092002,3153,"(1:36) M.Crosby 35 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",1,1,32386,"01:36:00",35,31,14,17,996
+"61",2020092713,401,"(7:36) M.Crosby 52 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",1,"GB",0,1,32386,"07:36:00",52,0,0,0,3156
+"62",2020092713,874,"(14:17) M.Crosby 33 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",0,1,32386,"14:17:00",33,7,3,4,2657
+"63",2020092713,3344,"(8:52) M.Crosby 49 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"08:52:00",49,27,27,0,532
+"64",2020100500,3299,"(6:00) M.Crosby 48 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"06:00:00",48,27,16,11,360
+"65",2020101810,297,"(10:31) M.Crosby 39 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",1,"GB",0,1,32386,"10:31:00",39,0,0,0,3331
+"66",2020110500,2860,"(2:04) M.Crosby 19 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",3,"GB",0,1,32386,"02:04:00",19,3,28,-25,1024
+"67",2020110500,3422,"(6:20) M.Crosby 53 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"06:20:00",53,3,31,-28,380
+"68",2020111503,2054,"(:06) M.Crosby 39 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",2,"GB",1,1,32386,"00:06:00",39,14,10,4,1806
+"69",2020112204,4378,"(:07) M.Crosby 26 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",0,1,32386,"00:07:00",26,31,28,3,7
+"70",2020120610,2660,"(11:23) M.Crosby 40 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"11:23:00",40,20,3,17,683
+"71",2020121901,3564,"(3:44) M.Crosby 51 yard field goal is GOOD, Center-H.Bradley, Holder-J.Scott.",4,"GB",1,1,32386,"03:44:00",51,21,13,8,224

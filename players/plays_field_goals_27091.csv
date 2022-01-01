@@ -1,0 +1,35 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018090600,658,"(5:03) M.Bryant 21 yard field goal is GOOD, Center-J.Overbaugh, Holder-M.Bosher.",1,"ATL",0,1,27091,"05:03:00",21,0,0,0,3003
+"2",2018090600,1587,"(2:13) M.Bryant 52 yard field goal is GOOD, Center-J.Overbaugh, Holder-M.Bosher.",2,"ATL",0,1,27091,"02:13:00",52,3,3,0,1933
+"3",2018091600,460,"(5:46) M.Bryant 44 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",1,"ATL",1,1,27091,"05:46:00",44,0,3,-3,3046
+"4",2018093000,2144,"(:02) M.Bryant 55 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",2,"ATL",1,1,27091,"00:02:00",55,21,28,-7,1802
+"5",2018093000,2376,"(11:25) M.Bryant 28 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",3,"ATL",1,1,27091,"11:25:00",28,24,28,-4,1585
+"6",2018093000,3990,"(4:18) M.Bryant 32 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher. Penalty on CIN-T.McRae, Defensive Offside, declined.",4,"ATL",1,1,27091,"04:18:00",32,33,31,2,258
+"7",2018100707,1585,"(5:07) (Field Goal formation) M.Bryant 47 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher. Penalty on PIT-A.Burns, Defensive Offside, declined.",2,"ATL",0,1,27091,"05:07:00",47,13,7,6,2107
+"8",2018101400,2049,"(:06) M.Bryant 45 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",2,"ATL",1,1,27091,"00:06:00",45,21,13,8,1806
+"9",2018101400,3970,"(1:16) M.Bryant 57 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher. ATL-M.Bryant was injured during the play.",4,"ATL",1,1,27091,"01:16:00",57,31,29,2,76
+"10",2018111800,874,"(14:56) M.Bryant 41 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",2,"ATL",1,1,27091,"14:56:00",41,0,3,-3,2696
+"11",2018111800,1679,"(:34) M.Bryant 45 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",2,"ATL",1,1,27091,"00:34:00",45,3,3,0,1834
+"12",2018111800,2200,"(7:16) M.Bryant 53 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",3,"ATL",1,1,27091,"07:16:00",53,6,6,0,1336
+"13",2018111800,3018,"(8:28) M.Bryant 21 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",4,"ATL",1,1,27091,"08:28:00",21,9,19,-10,508
+"14",2018112202,791,"(2:40) M.Bryant 32 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",1,"ATL",0,1,27091,"02:40:00",32,7,0,7,2860
+"15",2018120200,331,"(9:36) M.Bryant 44 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",1,"ATL",1,1,27091,"09:36:00",44,0,0,0,3276
+"16",2018120903,933,"(:42) M.Bryant 53 yard field goal is No Good, Short, Center-J.Condo, Holder-M.Bosher.",1,"ATL",0,0,27091,"00:42:00",53,7,7,0,2742
+"17",2018121600,973,"(:41) M.Bryant 22 yard field goal is GOOD, Center-J.Condo, Holder-M.Bosher.",1,"ATL",1,1,27091,"00:41:00",22,7,7,0,2741
+"18",2018121600,1669,"(5:21) M.Bryant 33 yard field goal is GOOD, Center-J.Condo, Holder-M.Bosher.",2,"ATL",1,1,27091,"05:21:00",33,17,7,10,2121
+"19",2018122304,1656,"(5:35) M.Bryant 39 yard field goal is GOOD, Center-J.Condo, Holder-M.Bosher.",2,"ATL",0,1,27091,"05:35:00",39,10,7,3,2135
+"20",2018123010,3041,"(2:04) M.Bryant 49 yard field goal is GOOD, Center-J.Condo, Holder-M.Bosher.",3,"ATL",0,1,27091,"02:04:00",49,20,14,6,1024
+"21",2018123010,4370,"(:04) M.Bryant 37 yard field goal is GOOD, Center-J.Condo, Holder-M.Bosher.",4,"ATL",0,1,27091,"00:04:00",37,32,31,1,4
+"22",2019091513,1438,"(7:47) M.Bryant 50 yard field goal is No Good, Wide Left, Center-J.Harris, Holder-M.Bosher.",2,"ATL",1,0,27091,"07:47:00",50,3,3,0,2267
+"23",2019092203,1622,"(2:24) M.Bryant 34 yard field goal is GOOD, Center-J.Harris, Holder-M.Wile.",2,"ATL",0,1,27091,"02:24:00",34,13,0,13,1944
+"24",2019092900,2175,"(:35) M.Bryant 32 yard field goal is No Good, Hit Left Upright, Center-J.Harris, Holder-M.Bosher.",2,"ATL",1,0,27091,"00:35:00",32,7,24,-17,1835
+"25",2019092900,2619,"(11:41) M.Bryant 42 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",3,"ATL",1,1,27091,"11:41:00",42,7,24,-17,1601
+"26",2019100602,997,"(14:56) M.Bryant 35 yard field goal is GOOD, Center-J.Harris, Holder-M.Wile.",2,"ATL",0,1,27091,"14:56:00",35,7,7,0,2696
+"27",2019101307,1807,"(3:41) M.Bryant 29 yard field goal is GOOD, Center-J.Harris, Holder-M.Schaub.",2,"ATL",0,1,27091,"03:41:00",29,17,7,10,2021
+"28",2019101307,2782,"(7:51) M.Bryant 44 yard field goal is GOOD, Center-J.Harris, Holder-M.Schaub.",3,"ATL",0,1,27091,"07:51:00",44,27,10,17,1371
+"29",2019102000,290,"(11:28) M.Bryant 52 yard field goal is GOOD, Center-J.Harris, Holder-M.Schaub.",1,"ATL",1,1,27091,"11:28:00",52,0,0,0,3388
+"30",2019102000,1988,"(1:15) M.Bryant 50 yard field goal is No Good, Wide Left, Center-J.Harris, Holder-M.Schaub.",2,"ATL",1,0,27091,"01:15:00",50,3,13,-10,1875
+"31",2019102700,873,"(15:00) M.Bryant 51 yard field goal is No Good, Wide Left, Center-J.Harris, Holder-K.Redfern.",2,"ATL",1,0,27091,"15:00:00",51,0,3,-3,2700
+"32",2019102700,1603,"(2:33) M.Bryant 53 yard field goal is No Good, Wide Right, Center-J.Harris, Holder-K.Redfern.",2,"ATL",1,0,27091,"02:33:00",53,0,17,-17,1953
+"33",2019102700,2749,"(3:30) M.Bryant 47 yard field goal is GOOD, Center-J.Harris, Holder-K.Redfern.",3,"ATL",1,1,27091,"03:30:00",47,8,24,-16,1110
+"34",2019102700,4183,"(1:21) M.Bryant 37 yard field goal is GOOD, Center-J.Harris, Holder-K.Redfern.",4,"ATL",1,1,27091,"01:21:00",37,17,27,-10,81

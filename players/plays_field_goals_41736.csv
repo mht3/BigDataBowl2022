@@ -1,0 +1,20 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018090906,1270,"(11:17) C.Catanzaro 33 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",2,"TB",0,1,41736,"11:17:00",33,17,14,3,2477
+"2",2018090906,2539,"(11:29) C.Catanzaro 36 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",3,"TB",0,1,41736,"11:29:00",36,24,31,-7,1589
+"3",2018090906,4096,"(4:57) C.Catanzaro 44 yard field goal is No Good, Wide Right, Center-G.Sanborn, Holder-B.Anger.",4,"TB",0,0,41736,"04:57:00",44,32,48,-16,297
+"4",2018092400,1973,"(1:17) C.Catanzaro 21 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",2,"TB",1,1,41736,"01:17:00",21,7,23,-16,1877
+"5",2018092400,2779,"(7:10) C.Catanzaro 28 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",3,"TB",1,1,41736,"07:10:00",28,10,30,-20,1330
+"6",2018093001,1050,"(15:00) C.Catanzaro 30 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",2,"TB",0,1,41736,"15:00:00",30,14,0,14,2700
+"7",2018101400,2763,"(2:43) C.Catanzaro 35 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",3,"TB",0,1,41736,"02:43:00",35,24,13,11,1063
+"8",2018102109,4292,"(:04) C.Catanzaro 40 yard field goal is No Good, Wide Right, Center-G.Sanborn, Holder-B.Anger.",4,"TB",1,0,41736,"00:04:00",40,23,23,0,4
+"9",2018102109,4977,"(1:55) C.Catanzaro 59 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",5,"TB",1,1,41736,"01:55:00",59,23,23,0,-115
+"10",2018102803,2417,"(:06) C.Catanzaro 25 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",2,"TB",0,1,41736,"00:06:00",25,27,6,21,1806
+"11",2018102803,3617,"(12:59) C.Catanzaro 38 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",4,"TB",0,1,41736,"12:59:00",38,34,16,18,779
+"12",2018111107,1161,"(8:35) C.Catanzaro 30 yard field goal is No Good, Wide Right, Center-G.Sanborn, Holder-B.Anger.",2,"TB",1,0,41736,"08:35:00",30,0,3,-3,2315
+"13",2018111107,1503,"(2:06) C.Catanzaro 33 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Anger.",2,"TB",1,1,41736,"02:06:00",33,0,3,-3,1926
+"14",2018111107,2540,"(4:12) C.Catanzaro 48 yard field goal is No Good, Wide Right, Center-G.Sanborn, Holder-B.Anger.",3,"TB",1,0,41736,"04:12:00",48,3,6,-3,1152
+"15",2018120902,1551,"(4:07) (Field Goal formation) C.Catanzaro 30 yard field goal is GOOD, Center-J.Jansen, Holder-M.Palardy.",2,"CAR",0,1,41736,"04:07:00",30,14,14,0,2047
+"16",2018120902,2693,"(7:15) C.Catanzaro 34 yard field goal is GOOD, Center-J.Jansen, Holder-M.Palardy.",3,"CAR",0,1,41736,"07:15:00",34,17,17,0,1335
+"17",2018122304,1489,"(7:46) C.Catanzaro 50 yard field goal is GOOD, Center-J.Jansen, Holder-M.Palardy.",2,"CAR",1,1,41736,"07:46:00",50,7,7,0,2266
+"18",2018123007,2124,"(:03) C.Catanzaro 22 yard field goal is GOOD, Center-J.Jansen, Holder-M.Palardy.",2,"CAR",0,1,41736,"00:03:00",22,0,20,-20,1803
+"19",2018123007,3437,"(8:22) C.Catanzaro 51 yard field goal is GOOD, Center-J.Jansen, Holder-M.Palardy.",4,"CAR",0,1,41736,"08:22:00",51,7,30,-23,502

@@ -61,6 +61,7 @@ data = dataset[data_cols]
 
 # # Split into training and test set
 X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2,random_state=10, stratify=labels)
+# print(X_train.head())
 
 # SVM Comment our random forest classifier and uncomment the SVC pipeline to run.
 # pipeline = make_pipeline(StandardScaler(), SVC(kernel='rbf', gamma=0.001, C=8, probability=True))

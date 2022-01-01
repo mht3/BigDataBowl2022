@@ -15,6 +15,7 @@ from sklearn.preprocessing import LabelEncoder
 import tensorflow as tf
 from tensorflow.keras import layers
 from collections import Counter
+import player_dictionary
 
 
 def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix"):
@@ -36,11 +37,14 @@ def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix")
 # Preprocessing (splitting into training/testing and standardizing) the data
 def preprocess(dataset):
     dataset = dataset.drop(["Unnamed: 0", "gameId", "playId"], axis=1)
+
     data_cols = ["possessionTeam", "Home", "kickLength", "scoreDifference", "secondsRemain"]
+
 
     # Encode data to represent teams as integers 1-32
     le = LabelEncoder()
-    dataset.loc[:,"possessionTeam"] = le.fit_transform(dataset["possessionTeam"].astype(str))
+    dataset.loc[:,["possessionTeam"]] = le.fit_transform(dataset["possessionTeam"].astype(str))
+    # dataset.loc[:,["kickerId"]] = le.fit_transform(dataset["kickerId"].astype(str))
 
     # Kick length column contains some Nan values when a kick is blocked.
     # Remove these rows as they do not reflect a level of clutchness.
@@ -75,9 +79,8 @@ def build_model(num_features):
     # Hidden Layers
     model.add(layers.Dense(16,activation='relu'))
     model.add(layers.Dropout(0.2))
-    model.add(layers.Dense(8,activation='relu'))
-    model.add(layers.Dropout(0.2))
-    # model.add(tf.keras.layers.Flatten())
+    # model.add(layers.Dense(8,activation='relu'))
+    # model.add(layers.Dropout(0.2))
     model.add(layers.Dense(1, activation='sigmoid'))
     
     # Need a precision recall curve plot. Focuses on accuracy for the minority class
@@ -90,9 +93,11 @@ def build_model(num_features):
 # Training the model
 def train_model(X_train, y_train, model, epochs, batch_size):
     # stop = tf.keras.callbacks.EarlyStopping(monitor='acc', verbose=1, patience=10, mode='max', restore_best_weights=True)
-    stop = tf.keras.callbacks.EarlyStopping(monitor='val_loss', mode='min',verbose=0,patience=10)
-    class_weight ={ 0: 1.5, 1: 1}
-    fitter = model.fit(X_train, y_train, class_weight=class_weight, epochs=epochs,batch_size=batch_size, callbacks=[stop], validation_split=0.2, verbose=1)
+    stop = tf.keras.callbacks.EarlyStopping(monitor='val_prc', mode='max', verbose=0,patience=10)
+    # class_weight ={ 0: 1.5, 1: 1}
+    X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.3, random_state=10, stratify=y_train)
+    fitter = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, callbacks=[stop],
+                        validation_data=(X_val, y_val), verbose=1)
     return fitter
 
 # plotting categorical and validation accuracy over epochs
@@ -137,14 +142,13 @@ def plot_accuracy_loss(history):
 
 def main():
     dataset = pd.read_csv('plays/plays_regularTime_tidy.csv')
-    kickerIds = dataset["kickerId"]
     X_train, X_test, y_train, y_test = preprocess(dataset)
     baseline_accuracy = peek_majority_prediction(dataset)
 
     # Building the Neural Net
     num_features = X_train.shape[1]
-    batch_size = 16
-    epochs = 32
+    batch_size = 32
+    epochs = 64
 
     model = build_model(num_features=num_features)
     fitter = train_model(X_train, y_train, model=model, epochs=epochs,batch_size=batch_size)

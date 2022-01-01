@@ -1,0 +1,78 @@
+"","gameId","playId","playDescription","quarter","possessionTeam","Home","Result","kickerId","gameClock","kickLength","preSnapHomeScore","preSnapVisitorScore","scoreDifference","secondsRemain"
+"1",2018091602,1704,"(1:42) D.Carlson 48 yard field goal is No Good, Wide Right, Center-K.McDermott, Holder-M.Wile.",2,"MIN",0,0,46236,"01:42:00",48,14,7,7,1902
+"2",2018091602,4317,"(7:36) D.Carlson 49 yard field goal is No Good, Wide Right, Center-K.McDermott, Holder-M.Wile.",5,"MIN",0,0,46236,"07:36:00",49,29,29,0,-456
+"3",2018091602,4709,"(:04) D.Carlson 35 yard field goal is No Good, Wide Right, Center-K.McDermott, Holder-M.Wile.",5,"MIN",0,0,46236,"00:04:00",35,29,29,0,-4
+"4",2018110100,341,"(9:34) D.Carlson 37 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",1,"OAK",0,1,46236,"09:34:00",37,0,0,0,3274
+"5",2018110100,2974,"(13:26) D.Carlson 45 yard field goal is No Good, Hit Right Upright, Center-T.Sieg, Holder-J.Townsend.",4,"OAK",0,0,46236,"13:26:00",45,31,3,28,806
+"6",2018111109,648,"(2:56) D.Carlson 46 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",1,"OAK",1,1,46236,"02:56:00",46,0,0,0,2876
+"7",2018111109,2669,"(14:53) D.Carlson 30 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",4,"OAK",1,1,46236,"14:53:00",30,3,17,-14,893
+"8",2018111807,2944,"(:25) D.Carlson 21 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",3,"OAK",0,1,46236,"00:25:00",21,14,17,-3,925
+"9",2018111807,4277,"(:02) (Field Goal formation) D.Carlson 35 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",4,"OAK",0,1,46236,"00:02:00",35,21,20,1,2
+"10",2018112500,2066,"(2:38) (Field Goal formation) D.Carlson 42 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",2,"OAK",0,1,46236,"02:38:00",42,13,7,6,1958
+"11",2018120210,2550,"(11:10) D.Carlson 50 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",3,"OAK",1,1,46236,"11:10:00",50,7,19,-12,1570
+"12",2018120210,4725,"(:34) D.Carlson 44 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",4,"OAK",1,1,46236,"00:34:00",44,30,40,-10,34
+"13",2018120913,1231,"(8:08) D.Carlson 44 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",2,"OAK",1,1,46236,"08:08:00",44,7,7,0,2288
+"14",2018121604,3013,"(6:33) D.Carlson 50 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",3,"OAK",0,1,46236,"06:33:00",50,20,7,13,1293
+"15",2018121604,3315,"(2:42) D.Carlson 27 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",3,"OAK",0,1,46236,"02:42:00",27,20,10,10,1062
+"16",2018121604,4070,"(5:09) D.Carlson 40 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",4,"OAK",0,1,46236,"05:09:00",40,23,13,10,309
+"17",2018122400,1994,"(:23) D.Carlson 43 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",2,"OAK",1,1,46236,"00:23:00",43,14,0,14,1823
+"18",2018122400,3925,"(4:42) D.Carlson 45 yard field goal is GOOD, Center-T.Sieg, Holder-J.Townsend.",4,"OAK",1,1,46236,"04:42:00",45,24,14,10,282
+"19",2019090901,3305,"(4:41) D.Carlson 29 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"OAK",1,1,46236,"04:41:00",29,21,9,12,281
+"20",2019091510,299,"(10:24) D.Carlson 29 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"OAK",1,1,46236,"10:24:00",29,0,0,0,3324
+"21",2019092205,3172,"(8:35) D.Carlson 51 yard field goal is No Good, Hit Right Upright, Center-T.Sieg, Holder-A.Cole.",4,"OAK",0,0,46236,"08:35:00",51,31,7,24,515
+"22",2019092905,2969,"(3:18) D.Carlson 26 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",3,"OAK",0,1,46236,"03:18:00",26,10,21,-11,1098
+"23",2019100605,1612,"(2:00) (Field Goal formation) D.Carlson 41 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"OAK",1,1,46236,"02:00:00",41,14,0,14,1920
+"24",2019102004,186,"(12:25) D.Carlson 45 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"OAK",0,1,46236,"12:25:00",45,0,0,0,3445
+"25",2019102704,3561,"(10:52) D.Carlson 44 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"OAK",0,1,46236,"10:52:00",44,20,21,-1,652
+"26",2019110307,1089,"(13:34) D.Carlson 32 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"OAK",1,1,46236,"13:34:00",32,7,7,0,2614
+"27",2019110307,2392,"(10:55) D.Carlson 45 yard field goal is No Good, Wide Left, Center-T.Sieg, Holder-A.Cole.",3,"OAK",1,0,46236,"10:55:00",45,17,14,3,1555
+"28",2019110700,432,"(8:05) D.Carlson 40 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"OAK",1,1,46236,"08:05:00",40,0,0,0,3185
+"29",2019110700,2392,"(11:36) D.Carlson 22 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",3,"OAK",1,1,46236,"11:36:00",22,17,14,3,1596
+"30",2019110700,2598,"(8:01) D.Carlson 53 yard field goal is No Good, Wide Left, Center-T.Sieg, Holder-A.Cole.",3,"OAK",1,0,46236,"08:01:00",53,20,14,6,1381
+"31",2019111709,3302,"(9:15) D.Carlson 20 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"OAK",1,1,46236,"09:15:00",20,14,10,4,555
+"32",2019112406,288,"(10:00) D.Carlson 48 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"OAK",0,1,46236,"10:00:00",48,0,0,0,3300
+"33",2019112406,1397,"(7:17) D.Carlson 43 yard field goal is No Good, Wide Left, Center-T.Sieg, Holder-A.Cole.",2,"OAK",0,0,46236,"07:17:00",43,10,3,7,2237
+"34",2019120105,1847,"(1:09) D.Carlson 44 yard field goal is No Good, Wide Left, Center-T.Sieg, Holder-A.Cole.",2,"OAK",0,0,46236,"01:09:00",44,21,0,21,1869
+"35",2019120105,3008,"(15:00) D.Carlson 34 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"OAK",0,1,46236,"15:00:00",34,31,0,31,900
+"36",2019121510,576,"(4:56) D.Carlson 33 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"OAK",1,1,46236,"04:56:00",33,7,3,4,2996
+"37",2019121510,1575,"(2:24) D.Carlson 34 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"OAK",1,1,46236,"02:24:00",34,10,3,7,1944
+"38",2019121510,1930,"(:02) D.Carlson 27 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"OAK",1,1,46236,"00:02:00",27,13,3,10,1802
+"39",2019121510,3611,"(1:48) D.Carlson 45 yard field goal is No Good, Wide Left, Center-T.Sieg, Holder-A.Cole.",4,"OAK",1,0,46236,"01:48:00",45,16,13,3,108
+"40",2019122201,3018,"(8:34) D.Carlson 48 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"OAK",0,1,46236,"08:34:00",48,14,21,-7,514
+"41",2019122913,421,"(7:42) D.Carlson 39 yard field goal is No Good, Wide Left, Center-T.Sieg, Holder-A.Cole.",1,"OAK",0,0,46236,"07:42:00",39,0,0,0,3162
+"42",2019122913,850,"(14:10) D.Carlson 23 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"OAK",0,1,46236,"14:10:00",23,0,0,0,2650
+"43",2019122913,3278,"(9:07) D.Carlson 33 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"OAK",0,1,46236,"09:07:00",33,16,3,13,547
+"44",2019122913,3692,"(3:13) D.Carlson 28 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"OAK",0,1,46236,"03:13:00",28,16,6,10,193
+"45",2020092100,2226,"(:04) D.Carlson 28 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",1,1,46236,"00:04:00",28,14,17,-3,1804
+"46",2020092100,4100,"(1:08) D.Carlson 54 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"LV",1,1,46236,"01:08:00",54,31,24,7,68
+"47",2020092704,902,"(:20) D.Carlson 29 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"LV",0,1,46236,"00:20:00",29,0,0,0,2720
+"48",2020092704,2569,"(10:48) D.Carlson 41 yard field goal is No Good, Wide Left, Center-T.Sieg, Holder-A.Cole.",3,"LV",0,0,46236,"10:48:00",41,13,10,3,1548
+"49",2020092704,3287,"(11:25) D.Carlson 25 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"LV",0,1,46236,"11:25:00",25,23,10,13,685
+"50",2020100412,564,"(5:08) D.Carlson 54 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"LV",1,1,46236,"05:08:00",54,0,7,-7,3008
+"51",2020100412,1237,"(9:43) D.Carlson 39 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",1,1,46236,"09:43:00",39,3,14,-11,2383
+"52",2020100412,2215,"(8:41) D.Carlson 25 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",3,"LV",1,1,46236,"08:41:00",25,13,17,-4,1421
+"53",2020101103,527,"(6:49) D.Carlson 38 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"LV",0,1,46236,"06:49:00",38,0,0,0,3109
+"54",2020101103,3690,"(6:39) D.Carlson 43 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"LV",0,1,46236,"06:39:00",43,24,30,-6,399
+"55",2020102511,946,"(14:56) D.Carlson 42 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",1,1,46236,"14:56:00",42,7,7,0,2696
+"56",2020102511,3263,"(12:48) D.Carlson 36 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"LV",1,1,46236,"12:48:00",36,17,24,-7,768
+"57",2020110102,273,"(10:38) D.Carlson 41 yard field goal is No Good, Hit Left Upright, Center-T.Sieg, Holder-A.Cole.",1,"LV",0,0,46236,"10:38:00",41,0,0,0,3338
+"58",2020110102,1414,"(5:21) D.Carlson 29 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",0,1,46236,"05:21:00",29,3,0,3,2121
+"59",2020110102,1950,"(:02) D.Carlson 33 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",0,1,46236,"00:02:00",33,3,3,0,1802
+"60",2020110102,3248,"(4:27) D.Carlson 24 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"LV",0,1,46236,"04:27:00",24,6,13,-7,267
+"61",2020110808,3457,"(4:42) D.Carlson 31 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"LV",0,1,46236,"04:42:00",31,26,28,-2,282
+"62",2020111507,1854,"(1:48) D.Carlson 24 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",1,1,46236,"01:48:00",24,7,6,1,1908
+"63",2020111507,2537,"(9:20) D.Carlson 52 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",3,"LV",1,1,46236,"09:20:00",52,10,6,4,1460
+"64",2020111507,3156,"(13:26) D.Carlson 22 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"LV",1,1,46236,"13:26:00",22,20,6,14,806
+"65",2020112210,1440,"(4:41) D.Carlson 35 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",1,1,46236,"04:41:00",35,14,14,0,2081
+"66",2020112900,1208,"(13:04) D.Carlson 29 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",0,1,46236,"13:04:00",29,6,0,6,2584
+"67",2020112900,3143,"(6:43) D.Carlson 24 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",3,"LV",0,1,46236,"06:43:00",24,23,3,20,1303
+"68",2020120605,1444,"(6:11) D.Carlson 48 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",0,1,46236,"06:11:00",48,13,7,6,2171
+"69",2020121308,2374,"(9:45) D.Carlson 25 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",3,"LV",1,1,46236,"09:45:00",25,14,20,-6,1485
+"70",2020121308,2844,"(:17) D.Carlson 23 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",3,"LV",1,1,46236,"00:17:00",23,17,27,-10,917
+"71",2020121700,620,"(1:00) D.Carlson 23 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"LV",1,1,46236,"01:00:00",23,0,7,-7,2760
+"72",2020121700,3942,"(3:22) D.Carlson 23 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",5,"LV",1,1,46236,"03:22:00",23,24,24,0,-202
+"73",2020122602,1278,"(6:51) D.Carlson 23 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",1,1,46236,"06:51:00",23,7,3,4,2211
+"74",2020122602,1858,"(:16) D.Carlson 38 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",2,"LV",1,1,46236,"00:16:00",38,10,6,4,1816
+"75",2020122602,2560,"(2:34) D.Carlson 20 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",3,"LV",1,1,46236,"02:34:00",20,13,13,0,1054
+"76",2020122602,3811,"(:23) D.Carlson 22 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4,"LV",1,1,46236,"00:23:00",22,22,23,-1,23
+"77",2021010311,680,"(4:38) D.Carlson 33 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",1,"LV",0,1,46236,"04:38:00",33,3,0,3,2978
