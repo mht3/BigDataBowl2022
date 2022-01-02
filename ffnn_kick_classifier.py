@@ -36,10 +36,10 @@ def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix")
     
 # Preprocessing (splitting into training/testing and standardizing) the data
 def preprocess(dataset):
-    dataset = dataset.drop(["Unnamed: 0", "gameId", "playId"], axis=1)
+    dataset = dataset.drop(["Unnamed: 0", "gameId", "playId", "V15"], axis=1)
 
-    data_cols = ["possessionTeam", "Home", "kickLength", "scoreDifference", "secondsRemain"]
-
+    data_cols = ["possessionTeam", "Home", "kickLength", "scoreDifference", "secondsRemain", "average_temperature"]
+    cols_to_scale = ["kickLength", "scoreDifference", "secondsRemain", "average_temperature"]
 
     # Encode data to represent teams as integers 1-32
     le = LabelEncoder()
@@ -58,10 +58,11 @@ def preprocess(dataset):
     X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2,random_state=10, stratify=labels)
     y_train = np.asarray(y_train).astype('float32').reshape((-1,1))
     y_test = np.asarray(y_test).astype('float32').reshape((-1,1))
+
     # Normalizing the data
     scaler = StandardScaler()
-    X_train = scaler.fit_transform(X_train)
-    X_test = scaler.transform(X_test)
+    X_train[cols_to_scale] = scaler.fit_transform(X_train[cols_to_scale])
+    X_test[cols_to_scale] = scaler.transform(X_test[cols_to_scale])
     X_train = pd.DataFrame(X_train, columns=data_cols)
     X_test = pd.DataFrame(X_test, columns=data_cols)
     return X_train, X_test, y_train, y_test
@@ -84,15 +85,15 @@ def build_model(num_features):
     model.add(layers.Dense(1, activation='sigmoid'))
     
     # Need a precision recall curve plot. Focuses on accuracy for the minority class
-    accuracy = tf.keras.metrics.BinaryAccuracy(name='accuracy'),
+    accuracy = tf.keras.metrics.BinaryAccuracy(name='accuracy')
     prc = tf.keras.metrics.AUC(name='prc', curve='PR')
-    metrics = [accuracy, prc, tf.keras.metrics.Precision(), tf.keras.metrics.Recall()]
+    metrics = [prc, tf.keras.metrics.Precision(), tf.keras.metrics.Recall(), accuracy]
     model.compile(loss='binary_crossentropy', optimizer='adam', metrics=metrics)
     return model
 
 # Training the model
 def train_model(X_train, y_train, model, epochs, batch_size):
-    # stop = tf.keras.callbacks.EarlyStopping(monitor='acc', verbose=1, patience=10, mode='max', restore_best_weights=True)
+    # stop = tf.keras.callbacks.EarlyStopping(monitor='acc', verbose=1, patience=10, mode='max')
     stop = tf.keras.callbacks.EarlyStopping(monitor='val_prc', mode='max', verbose=0,patience=10)
     # class_weight ={ 0: 1.5, 1: 1}
     X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.3, random_state=10, stratify=y_train)
@@ -101,7 +102,7 @@ def train_model(X_train, y_train, model, epochs, batch_size):
     return fitter
 
 # plotting categorical and validation accuracy over epochs
-def plot_accuracy_loss(history):
+def plot_metrics(history):
     fig = plt.figure(figsize=(8,8))
     fig.suptitle("Model Metrics", size=18)
     ax1 = fig.add_subplot(2,2,1)
@@ -141,7 +142,8 @@ def plot_accuracy_loss(history):
 
 
 def main():
-    dataset = pd.read_csv('plays/plays_regularTime_tidy.csv')
+    filename = 'plays/weather/plays_field_goals_weather.csv'
+    dataset = pd.read_csv(filename)
     X_train, X_test, y_train, y_test = preprocess(dataset)
     baseline_accuracy = peek_majority_prediction(dataset)
 
@@ -152,20 +154,21 @@ def main():
 
     model = build_model(num_features=num_features)
     fitter = train_model(X_train, y_train, model=model, epochs=epochs,batch_size=batch_size)
-    loss, accuracy, prc, precision, recall = model.evaluate(X_test, y_test,verbose=0)
+    loss, prc, precision, recall, accuracy = model.evaluate(X_test, y_test,verbose=0)
 
     print("------------------------------")
     print("Baseline Accuracy: {:0.3f}".format(baseline_accuracy))
     print("------------------------------")
     print()
-    y_pred = np.round(model.predict(X_test))
+    probabilities = model.predict(X_test)
+    y_pred = np.round(probabilities)
     accuracy = accuracy_score(y_test, y_pred)
     print("Model Accuracy: {:0.4f}".format(accuracy))
     print("Loss: {:0.4f}".format(loss))
     print("------------------------------")
 
 
-    plot_accuracy_loss(fitter.history)
+    plot_metrics(fitter.history)
     class_names = ["Miss", "Make"]
     
     plot_confusion_matrix(class_names, y_pred, y_test, title="Field Goal Confusion Matrix")

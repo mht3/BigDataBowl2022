@@ -53,7 +53,7 @@ def preprocess(dataset):
     data = dataset[data_cols]
 
     # Split into training and test sets with k fold validation
-    skf = StratifiedKFold(n_splits=5, random_state=1, shuffle=True)
+    skf = StratifiedKFold(n_splits=5, random_state=12, shuffle=True)
     kfold_sets = []
     for train_index, test_index in skf.split(data, labels):
         X_train, X_test = data.iloc[train_index], data.iloc[test_index]
