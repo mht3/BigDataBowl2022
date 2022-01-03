@@ -43,12 +43,11 @@ def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix")
 def preprocess(dataset):
     data_cols = ["Home", "kickLength", "quarter", "scoreDifference", "secondsRemain", "average_temperature", "real_WindSpeed", "condition"]
     cols_to_scale = ["kickLength", "scoreDifference", "secondsRemain", "average_temperature", "real_WindSpeed"]
+    dataset['Home'] = dataset['Home'].replace({True: 1, False: 0})
 
     # Kick length column contains some Nan values when a kick is blocked.
     # Remove these rows as they do not reflect a level of clutchness.
-    # print(len(dataset))
     dataset = dataset.dropna()
-    # print(len(dataset))
 
     # Getting our labels and data
     labels = dataset["Result"]
@@ -78,14 +77,14 @@ def build_model(num_features):
     model = tf.keras.Sequential(name='FieldGoalClassifier')
     model.add(layers.InputLayer(input_shape=(num_features,)))
     # Hidden Layers
-    model.add(layers.Dense(4, activation='relu'))
-    model.add(layers.Dense(4, activation='relu'))
+    model.add(layers.Dense(8, activation='relu', kernel_regularizer=tf.keras.regularizers.l2(0.01)), activity_regularizer=tf.keras.regularizers.l2(0.01))
+    model.add(layers.Dense(3, activation='relu', kernel_regularizer=tf.keras.regularizers.l2(0.001)))
     model.add(layers.Dense(1, activation='sigmoid'))
     
     # Need a precision recall curve plot. Focuses on accuracy for the minority class
     fp = tf.keras.metrics.FalsePositives(name='fp')
     tn = tf.keras.metrics.TrueNegatives(name='tn')
-    sas = tf.keras.metrics.SensitivityAtSpecificity(0.4, name='sas')    
+    sas = tf.keras.metrics.SensitivityAtSpecificity(0.7, name='sas')    
     auc = tf.keras.metrics.AUC(curve='ROC')
     metrics = [auc, fp, tn, sas]
     opt = tf.keras.optimizers.Adam(learning_rate=0.001)
@@ -95,7 +94,7 @@ def build_model(num_features):
 
 # Training the model
 def train_model(X_train, y_train, model, epochs, batch_size):
-    class_weights = {0: 1.6, 1: 1}
+    class_weights = {0: 0.84, 1: 0.16}
     X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.2, random_state=12, stratify=y_train)
     fitter = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, class_weight = class_weights,
                         validation_data=(X_val, y_val), verbose=1)
@@ -124,7 +123,7 @@ def plot_metrics(history):
     ax3 = fig.add_subplot(2, 2, 3)
     ax3.plot(history['sas'])
     ax3.plot(history['val_sas'])
-    ax3.set_title('Recall at FPR >= 0.3')
+    ax3.set_title('Recall at FPR >= 0.7')
     ax3.set_xlabel('Epoch')
     ax3.set_ylabel('Recall')
     ax3.legend(['train', 'validation'], loc='upper left')
@@ -148,7 +147,6 @@ def main():
     filename = 'data/preprocessed/kicker_data.csv'
     dataset = pd.read_csv(filename)
     dataset = dataset.drop(["Unnamed: 0", "gameId", "playId",], axis=1)
-    # print(dataset.isnull().any())
 
     X_train, X_test, y_train, y_test = preprocess(dataset)
     baseline_accuracy = peek_majority_prediction(dataset)
@@ -156,7 +154,7 @@ def main():
     # Building the Neural Net
     num_features = X_train.shape[1]
     batch_size = 8
-    epochs = 12
+    epochs = 16
 
     model = build_model(num_features=num_features)
     fitter = train_model(X_train, y_train, model=model, epochs=epochs,batch_size=batch_size)

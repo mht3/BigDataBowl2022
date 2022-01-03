@@ -11,6 +11,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import recall_score
 from sklearn.metrics import precision_score
+from sklearn.metrics import roc_auc_score
 
 from player_dictionary import player_dict, weight_dict, height_dict
 from sklearn.preprocessing import LabelEncoder
@@ -20,7 +21,8 @@ import tensorflow as tf
 from tensorflow.keras import layers
 from collections import Counter
 
-player_dependent_scores = pd.DataFrame()
+pds_kick = pd.DataFrame()
+pds_score = pd.DataFrame()
 VERBOSE = 0
 
 def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix"):
@@ -43,6 +45,8 @@ def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix")
 def preprocess(dataset):
     data_cols = ["Home", "kickLength", "quarter", "scoreDifference", "secondsRemain", "average_temperature", "real_WindSpeed", "condition"]
     cols_to_scale = ["kickLength", "scoreDifference", "secondsRemain", "average_temperature", "real_WindSpeed"]
+    dataset['Home'] = dataset['Home'].replace({True: 1, False: 0})
+
     # Kick length column contains some Nan values when a kick is blocked.
     # Remove these rows as they do not reflect a level of clutchness.
     dataset = dataset.dropna()
@@ -165,30 +169,45 @@ def get_clutch_scores(dataset, rows, scores, player_dict=player_dict):
     player_dict     :       dictionary mapping kicker id to player name
     '''
 
-    final = dataset.filter(items=["kickerId", "kickLength", "Result"])
+    final = dataset.filter(items=["kickerId", "kickLength", "scoreDifference", "Result"])
     final = final.loc[rows,:]
     final["Score"] = scores
 
     final['Name']= final['kickerId'].map(player_dict)
-    categories = ["< 20", "20-29", "30-39", "40-49", "50+"]
-    final["Kick Category"] = pd.cut(final["kickLength"], bins=[0,19,29,39,49,75], labels=categories)
+
+    # Breakdown based on kick distance
+    kick_categories = ["< 25", "25-29", "30-39", "40-49", "50+"]
+    final["Kick Category"] = pd.cut(final["kickLength"], bins=[0,24,29,39,49,75], labels=kick_categories)
 
     player_groupby = final.groupby(['Kick Category', 'Name'])['Score']
-
     player_scores = player_groupby.mean()
     player_stds = player_groupby.std()
     player_medians = player_groupby.median()
     player_scores =player_scores.reset_index()
-
     player_medians =player_medians.reset_index()
     player_stds =player_stds.reset_index()
     player_scores["Median"] = player_medians["Score"]
     player_scores["Std"] = player_stds["Score"]
-    return player_scores
+
+    # Breakdown based on score difference
+    score_categories = ["< -3 ", "-3 - 3", "> 3"]
+    final["Score Category"] = pd.cut(final["scoreDifference"], bins=[-50, -4, 4, 50], labels=score_categories)
+
+    player_groupby_2 = final.groupby(["Score Category", "Name"])["Score"]
+    player_scores_2 = player_groupby_2.mean()
+    player_stds_2 = player_groupby_2.std()
+    player_medians_2 = player_groupby_2.median()
+    player_scores_2 =player_scores_2.reset_index()
+    player_medians_2 =player_medians_2.reset_index()
+    player_stds_2 =player_stds_2.reset_index()
+    player_scores_2["Median"] = player_medians_2["Score"]
+    player_scores_2["Std"] = player_stds_2["Score"]
+
+    return player_scores, player_scores_2
 
 
 def main():
-    global player_dependent_scores, VERBOSE
+    global pds_kick, pds_score, VERBOSE
     filename = 'data/preprocessed/kicker_data.csv'
     dataset = pd.read_csv(filename)
     dataset = dataset.drop(["Unnamed: 0", "gameId", "playId", "StadiumName","RoofType","TimeMeasure","TimeStartGame","TimeEndGame"], axis=1)
@@ -198,7 +217,7 @@ def main():
     minimum_kicks = 25
     kicker_instances = dataset.groupby("kickerId").size()
     kickers_to_remove = kicker_instances.loc[kicker_instances < minimum_kicks].reset_index()["kickerId"].tolist()
-    # Physically removes all instances of kickers with < 10 kicks
+    # Physically removes all instances of kickers with < minimum kicks
     dataset = dataset[~dataset['kickerId'].isin(kickers_to_remove)]
 
     folds = preprocess(dataset)
@@ -214,6 +233,7 @@ def main():
     accuracy_scores = []
     precision_scores = []
     recall_scores = []
+    roc_auc_scores=[]
     losses = []
     kfold_probabilities = []
     kfold_y_preds = []
@@ -239,14 +259,16 @@ def main():
         accuracy = accuracy_score(y_test, y_pred)
         recall = recall_score(y_test, y_pred)
         precision = precision_score(y_test, y_pred)
-        if VERBOSE: 
+        roc_auc = roc_auc_score(y_test, y_pred)
+        if VERBOSE:
             print("Model Accuracy: {:0.4f}".format(accuracy))
             print("Recall: {:0.4f}".format(recall))
             print("Precision: {:0.4f}".format(precision))
+            print("ROC-AUC: {:0.4f}".format(roc_auc))
             print("Loss: {:0.4f}".format(loss))
 
         # Plot the metrics from the last fold to see general trends
-        if (fold_num == 1):
+        if (fold_num == 5):
             plot_metrics(fitter.history)
 
         kfold_rows = kfold_rows + list(X_test.index)
@@ -254,6 +276,7 @@ def main():
         kfold_y_tests = kfold_y_tests + list(y_test)
         kfold_y_preds = kfold_y_preds + list(y_pred)
         accuracy_scores.append(accuracy)
+        roc_auc_scores.append(roc_auc)
         recall_scores.append(recall)
         precision_scores.append(precision)
         losses.append(loss)
@@ -269,12 +292,13 @@ def main():
     avg_precision = np.mean(precision_scores)
     avg_recall = np.mean(recall_scores)
     avg_loss = np.mean(losses)
+    avg_roc_auc = np.mean(roc_auc_scores)
+
     if VERBOSE:
         print("Model Averages: ")
-        print("Accuracy: {:0.4f}\nPrecision: {:0.4f}\nRecall: {:0.4f}\nLoss: {:0.4f}".format(avg_acc, avg_precision, avg_recall,avg_loss))
+        print("Accuracy: {:0.4f}\nPrecision: {:0.4f}\nRecall: {:0.4f}\nROC-AUC: {:0.4f}\nLoss: {:0.4f}".format(avg_acc,avg_precision, avg_recall, avg_roc_auc, avg_loss))
 
-    player_dependent_scores = get_clutch_scores(dataset, rows=kfold_rows, scores=kfold_probabilities)
-
+    pds_kick, pds_score = get_clutch_scores(dataset, rows=kfold_rows, scores=kfold_probabilities)
 
 # Run the main method
 main()

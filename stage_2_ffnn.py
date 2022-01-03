@@ -40,6 +40,7 @@ def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix")
 def preprocess(dataset):
     data_cols = ["Home", "kickLength", "quarter", "scoreDifference", "secondsRemain", "average_temperature", "real_WindSpeed", "condition"]
     cols_to_scale = ["kickLength", "scoreDifference", "secondsRemain", "average_temperature", "real_WindSpeed"]
+    dataset['Home'] = dataset['Home'].replace({True: 1, False: 0})
 
     # Kick length column contains some Nan values when a kick is blocked.
     # Remove these rows as they do not reflect a level of clutchness.

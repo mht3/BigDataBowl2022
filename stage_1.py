@@ -11,8 +11,8 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import recall_score
 from sklearn.metrics import precision_score
+from sklearn.metrics import roc_auc_score
 
-from player_dictionary import player_dict
 from sklearn.preprocessing import LabelEncoder
 
 
@@ -20,7 +20,8 @@ import tensorflow as tf
 from tensorflow.keras import layers
 from collections import Counter
 
-player_agnostic_scores = pd.DataFrame()
+pas_kick = pd.DataFrame()
+pas_score = pd.DataFrame()
 VERBOSE = 0
 
 def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix"):
@@ -43,6 +44,7 @@ def plot_confusion_matrix(class_names, y_pred, y_test, title="Confusion Matrix")
 def preprocess(dataset):
     data_cols = ["Home", "kickLength", "quarter", "scoreDifference", "secondsRemain", "average_temperature", "real_WindSpeed", "condition"]
     cols_to_scale = ["kickLength", "scoreDifference", "secondsRemain", "average_temperature", "real_WindSpeed"]
+    dataset['Home'] = dataset['Home'].replace({True: 1, False: 0})
 
     # Kick length column contains some Nan values when a kick is blocked.
     # Remove these rows as they do not reflect a level of clutchness.
@@ -100,8 +102,8 @@ def build_model(num_features):
 
 # Training the model
 def train_model(X_train, y_train, model, epochs, batch_size):
-    class_weights = {0: 1.6, 1: 1}
-    X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.25, random_state=1, stratify=y_train)
+    class_weights = {0: 1.62, 1: 1}
+    X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.25, random_state=12, stratify=y_train)
     fitter = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, class_weight = class_weights,
                         validation_data=(X_val, y_val), verbose=0)
     return fitter
@@ -148,7 +150,7 @@ def plot_metrics(history):
     fig.tight_layout()
     fig.savefig('ffnn_results/stage_1_metrics.png')
 
-def get_clutch_scores(dataset, rows, scores, player_dict=player_dict):
+def get_clutch_scores(dataset, rows, scores):
     '''
     Gets the baseline scores at each kick distance category
     
@@ -157,14 +159,15 @@ def get_clutch_scores(dataset, rows, scores, player_dict=player_dict):
     dataset         :       the original dataset used
     rows            :       row numbers used from the dataframe (used to link scores to original dataframe)
     scores          :       scores predicted by our model
-    player_dict     :       dictionary mapping kicker id to player name
     '''
 
-    final = dataset.filter(items=["kickerId", "kickLength", "Result"])
+    final = dataset.filter(items=["kickerId", "kickLength", "scoreDifference", "Result"])
     final = final.loc[rows,:]
     final["Score"] = scores
-    categories = ["< 20", "20-29", "30-39", "40-49", "50+"]
-    final["Kick Category"] = pd.cut(final["kickLength"], bins=[0,19,29,39,49,75], labels=categories)
+
+    kick_categories = ["< 25", "25-29", "30-39", "40-49", "50+"]
+    final["Kick Category"] = pd.cut(final["kickLength"], bins=[0,24,29,39,49,75], labels=kick_categories)
+
     player_agnostic_groupby = final.groupby(['Kick Category'])['Score']
     player_agnostic_scores = player_agnostic_groupby.mean()
     player_agnostic_stds = player_agnostic_groupby.std()
@@ -174,11 +177,25 @@ def get_clutch_scores(dataset, rows, scores, player_dict=player_dict):
     player_agnostic_stds =player_agnostic_stds.reset_index()
     player_agnostic_scores["Median"] = player_agnostic_medians["Score"]
     player_agnostic_scores["Std"] = player_agnostic_stds["Score"]
-    return player_agnostic_scores
+
+    score_categories = ["< -3 ", "-3 - 3", "> 3"]
+    final["Score Category"] = pd.cut(final["scoreDifference"], bins=[-50, -4, 4, 50], labels=score_categories)
+
+    player_agnostic_groupby_2 = final.groupby(['Score Category'])['Score']
+    player_agnostic_scores_2 = player_agnostic_groupby_2.mean()
+    player_agnostic_stds_2 = player_agnostic_groupby_2.std()
+    player_agnostic_medians_2 = player_agnostic_groupby_2.median()
+    player_agnostic_scores_2 =player_agnostic_scores_2.reset_index()
+    player_agnostic_medians_2 =player_agnostic_medians_2.reset_index()
+    player_agnostic_stds_2 =player_agnostic_stds_2.reset_index()
+    player_agnostic_scores_2["Median"] = player_agnostic_medians_2["Score"]
+    player_agnostic_scores_2["Std"] = player_agnostic_stds_2["Score"]
+
+    return player_agnostic_scores, player_agnostic_scores_2
 
 
 def main():
-    global player_agnostic_scores, VERBOSE
+    global pas_kick, pas_score, VERBOSE
     filename = 'data/preprocessed/kicker_data.csv'
     dataset = pd.read_csv(filename)
     dataset = dataset.drop(["Unnamed: 0", "gameId", "playId", "StadiumName","RoofType","TimeMeasure","TimeStartGame","TimeEndGame"], axis=1)
@@ -193,6 +210,7 @@ def main():
     # storage for information from all 5 folds
     fold_num = 1
     accuracy_scores = []
+    roc_auc_scores=[]
     precision_scores = []
     recall_scores = []
     losses = []
@@ -207,8 +225,8 @@ def main():
 
         # Building the Neural Net
         num_features = X_train.shape[1]
-        batch_size = 8
-        epochs = 12
+        batch_size = 4
+        epochs = 10
 
         model = build_model(num_features=num_features)
         fitter = train_model(X_train, y_train, model=model, epochs=epochs,batch_size=batch_size)
@@ -220,15 +238,17 @@ def main():
         accuracy = accuracy_score(y_test, y_pred)
         recall = recall_score(y_test, y_pred)
         precision = precision_score(y_test, y_pred)
+        roc_auc = roc_auc_score(y_test, y_pred)
         if VERBOSE:
             print("Model Accuracy: {:0.4f}".format(accuracy))
             print("Recall: {:0.4f}".format(recall))
             print("Precision: {:0.4f}".format(precision))
+            print("ROC-AUC: {:0.4f}".format(roc_auc))
             print("Loss: {:0.4f}".format(loss))
-
+        
 
         # Plot the metrics from the last fold to see general trends
-        if (fold_num == 1):
+        if (fold_num == 4):
             plot_metrics(fitter.history)
 
         kfold_rows = kfold_rows + list(X_test.index)
@@ -236,6 +256,7 @@ def main():
         kfold_y_tests = kfold_y_tests + list(y_test)
         kfold_y_preds = kfold_y_preds + list(y_pred)
         accuracy_scores.append(accuracy)
+        roc_auc_scores.append(roc_auc)
         recall_scores.append(recall)
         precision_scores.append(precision)
         losses.append(loss)
@@ -250,10 +271,12 @@ def main():
     avg_precision = np.mean(precision_scores)
     avg_recall = np.mean(recall_scores)
     avg_loss = np.mean(losses)
+    avg_roc_auc = np.mean(roc_auc_scores)
     if VERBOSE:
         print("Model Averages: ")
-        print("Accuracy: {:0.4f}\nPrecision: {:0.4f}\nRecall: {:0.4f}\nLoss: {:0.4f}".format(avg_acc, avg_precision, avg_recall,avg_loss))
-    player_agnostic_scores = get_clutch_scores(dataset, rows=kfold_rows, scores=kfold_probabilities)
+        print("Accuracy: {:0.4f}\nPrecision: {:0.4f}\nRecall: {:0.4f}\nROC-AUC: {:0.4f}\nLoss: {:0.4f}".format(avg_acc,avg_precision, avg_recall, avg_roc_auc, avg_loss))
+
+    pas_kick, pas_score = get_clutch_scores(dataset, rows=kfold_rows, scores=kfold_probabilities)
 
 # Run the main method
 main()
