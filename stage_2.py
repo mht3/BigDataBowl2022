@@ -191,7 +191,7 @@ def get_clutch_scores(dataset, rows, scores, player_dict=player_dict):
 
     # Breakdown based on score difference
     score_categories = ["< -3 ", "-3 - 3", "> 3"]
-    final["Score Category"] = pd.cut(final["scoreDifference"], bins=[-50, -4, 4, 50], labels=score_categories)
+    final["Score Category"] = pd.cut(final["scoreDifference"], bins=[-50, -4, 3, 50], labels=score_categories)
 
     player_groupby_2 = final.groupby(["Score Category", "Name"])["Score"]
     player_scores_2 = player_groupby_2.mean()
