@@ -1,5 +1,0 @@
-Result = Home Team Score - Visitor Team Score\
-Home = 1 stands for home team possession and 0 for Visitor Team Score\
-If KickLength is NA, then the kick is being blocked (kick length is not shown in the original play.csv)
-
-plays_field_goals_1220 have negative time 
