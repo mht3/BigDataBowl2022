@@ -1,8 +1,8 @@
 # BigDataBowl2022
 
-Clutch Kicker Metric for the Kaggle Big Data Bowl 2022 Competition
+Clutch Kicker Metric for the Kaggle [Big Data Bowl 2022](https://www.kaggle.com/c/nfl-big-data-bowl-2021) Competition.
 
-https://www.kaggle.com/c/nfl-big-data-bowl-2021
+The team's report, design, and analysis can be found [here](https://www.kaggle.com/mattt31/evaluating-kicker-performance-using-ker).
 
 ## Code Structure
 ```BigDataBowl2022/``` contains:
